@@ -11,8 +11,8 @@ from google.genai import types
 # API_KEY = "AIzaSyARBZds9gF9-d4MYYe1accItEzgpKt3I-I"
 API_KEY = "AIzaSyDqhnmMFbFwSIUve9CdvPn4u5PXT-OZwAo"
 MODEL_NAME = "gemini-2.5-flash-lite"
-MAX_WORKERS = 5 
-BATCH_SIZE = 57 
+MAX_WORKERS = 1
+BATCH_SIZE = 12 
 
 # Thư mục lưu file tạm (Quan trọng cho tính năng Resume)
 TEMP_DIR = "temp_batches_data" 

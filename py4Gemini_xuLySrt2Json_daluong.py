@@ -10,7 +10,7 @@ from google.genai import types
 # --- CẤU HÌNH ---
 API_KEY = "AIzaSyARBZds9gF9-d4MYYe1accItEzgpKt3I-I"  # <-- Dán key mới của bạn vào đây
 MODEL_NAME = "gemini-2.5-flash-lite"
-MAX_WORKERS = 1  # Số luồng chạy cùng lúc. Flash Lite khá nhanh, 5-8 là ổn định.
+MAX_WORKERS = 8  # Số luồng chạy cùng lúc. Flash Lite khá nhanh, 5-8 là ổn định.
 BATCH_SIZE = 12 # Số block SRT trong 1 lần gửi
 
 # Khởi tạo client
@@ -22,6 +22,7 @@ def split_srt_blocks(content):
     blocks = re.split(r'\n\s*\n', content)
     # Lọc bỏ các block rỗng nếu có
     return [b for b in blocks if b.strip()]
+
 
 def prompt_batch(concept, batch_content, batch_index, total_batches):
     """
