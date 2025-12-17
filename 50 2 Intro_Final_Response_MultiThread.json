@@ -1,0 +1,1025 @@
+[
+  {
+    "scene_id": 1,
+    "duration": "5.506",
+    "highlight_keywords": ["Synchro", "job interview"],
+    "prompt_components": {
+      "style": "Minimalist Motion Graphics. Everything is hand-drawn scribbles. Flat 2D style. Text must be rough handwritten font (scribbly ink). Using hex code #172126 on #F2F0EB paper background, with #BF4226 highlights. STRICTLY NO 3D, NO SHADOWS, NO REALISTIC EFFECTS.",
+      "character": "A stickman is standing nervously, looking towards the viewer.",
+      "background": "Smooth paper texture color #F2F0EB.",
+      "animation_timeline": "At [0s]: A stickman character pops onto the screen. At [1.5s]: The text 'Synchro' (in rough handwritten font) slams onto the screen. At [3s]: The text 'job interview' (in rough handwritten font) pops up next to 'Synchro'. At [5.506s]: The scene settles into a final static composition with the stickman looking at the two words.",
+      "audio_notes": "[SFX: Pop, Whoosh, Thud]"
+    }
+  },
+  {
+    "scene_id": 2,
+    "duration": "8.475",
+    "highlight_keywords": ["outgoing", "energetic", "team player", "collaborative"],
+    "prompt_components": {
+      "style": "Minimalist Motion Graphics. Everything is hand-drawn scribbles. Flat 2D style. Text must be rough handwritten font (scribbly ink). Using hex code #172126 on #F2F0EB paper background, with #BF4226 highlights. STRICTLY NO 3D, NO SHADOWS, NO REALISTIC EFFECTS.",
+      "character": "A stickman is enthusiastically gesturing, surrounded by other stick figures.",
+      "background": "Smooth paper texture color #F2F0EB.",
+      "animation_timeline": "At [0s]: The stickman from the previous scene is joined by several other stick figures. At [2s]: The text 'outgoing' (in rough handwritten font) slides in from the left. At [4s]: The text 'energetic' (in rough handwritten font) pops up from below. At [6s]: The text 'team player' (in rough handwritten font) slams in from the right. At [7.5s]: The text 'collaborative' (in rough handwritten font) bounces in from the top. At [8.475s]: The scene settles into a final static composition with the stickman and other figures in a group.",
+      "audio_notes": "[SFX: Slide, Pop, Slam, Bounce]"
+    }
+  },
+  {
+    "scene_id": 3,
+    "duration": "9.976",
+    "highlight_keywords": ["best thinking alone", "small talk drains", "reading"],
+    "prompt_components": {
+      "style": "Minimalist Motion Graphics. Everything is hand-drawn scribbles. Flat 2D style. Text must be rough handwritten font (scribbly ink). Using hex code #172126 on #F2F0EB paper background, with #BF4226 highlights. STRICTLY NO 3D, NO SHADOWS, NO REALISTIC EFFECTS.",
+      "character": "A stickman is shown alone, looking thoughtful, then looking drained, then reading a book.",
+      "background": "Smooth paper texture color #F2F0EB.",
+      "animation_timeline": "At [0s]: The stickman from the previous scene is now alone, looking contemplative. At [2s]: The text 'best thinking alone' (in rough handwritten font) appears. At [4s]: The stickman looks visibly tired, with lines indicating exhaustion. At [5s]: The text 'small talk drains' (in rough handwritten font) appears with a slight wobble. At [7s]: The stickman is holding and reading a book. At [8.5s]: The text 'reading' (in rough handwritten font) pops up. At [9.976s]: The scene settles into a final static composition with the stickman reading.",
+      "audio_notes": "[SFX: Sigh, Pop, Wobble, Page Turn]"
+    }
+  },
+  {
+    "scene_id": 4,
+    "duration": "7.207",
+    "highlight_keywords": ["success", "careers", "extroverts"],
+    "prompt_components": {
+      "style": "Minimalist Motion Graphics. Everything is hand-drawn scribbles. Flat 2D style. Text must be rough handwritten font (scribbly ink). Using hex code #172126 on #F2F0EB paper background, with #BF4226 highlights. STRICTLY NO 3D, NO SHADOWS, NO REALISTIC EFFECTS.",
+      "character": "A stickman is shown climbing a ladder towards a star labeled 'Success'.",
+      "background": "Smooth paper texture color #F2F0EB.",
+      "animation_timeline": "At [0s]: A stickman is at the bottom of a ladder. At [1.5s]: The text 'success' (in rough handwritten font) appears at the top of the ladder. At [3s]: The stickman starts climbing. At [4s]: The text 'careers' (in rough handwritten font) slides in from the side. At [5.5s]: The stickman reaches the top and high-fives a star. At [6s]: The text 'extroverts' (in rough handwritten font) pops up. At [7.207s]: The scene settles into a final static composition with the stickman next to the 'Success' star.",
+      "audio_notes": "[SFX: Climb, Slide, Pop, Ding]"
+    }
+  },
+  {
+    "scene_id": 5,
+    "duration": "9.276",
+    "highlight_keywords": ["introversion", "extroversion", "wrong", "harming career"],
+    "prompt_components": {
+      "style": "Minimalist Motion Graphics. Everything is hand-drawn scribbles. Flat 2D style. Text must be rough handwritten font (scribbly ink). Using hex code #172126 on #F2F0EB paper background, with #BF4226 highlights. STRICTLY NO 3D, NO SHADOWS, NO REALISTIC EFFECTS.",
+      "character": "A stickman is shown with question marks around its head, then a red 'X' appears over the words 'introversion' and 'extroversion', then the stickman looks concerned.",
+      "background": "Smooth paper texture color #F2F0EB.",
+      "animation_timeline": "At [0s]: A stickman is looking confused. At [1.5s]: The text 'introversion' (in rough handwritten font) appears. At [3s]: The text 'extroversion' (in rough handwritten font) appears next to it. At [4s]: A large red 'X' (using #BF4226) slams down over both words. At [5.5s]: The text 'wrong' (in rough handwritten font) pops up. At [7s]: The text 'harming career' (in rough handwritten font) slides in. At [8.5s]: The stickman looks worried. At [9.276s]: The scene settles into a final static composition with the stickman looking concerned.",
+      "audio_notes": "[SFX: Pop, Slam, Slide, Gasp]"
+    }
+  },
+  {
+    "scene_id": 6,
+    "duration": "11.979",
+    "highlight_keywords": ["Carl Jung", "psychiatrist", "coined terms", "different understanding"],
+    "prompt_components": {
+      "style": "Minimalist Motion Graphics. Everything is hand-drawn scribbles. Flat 2D style. Text must be rough handwritten font (scribbly ink). Using hex code #172126 on #F2F0EB paper background, with #BF4226 highlights. STRICTLY NO 3D, NO SHADOWS, NO REALISTIC EFFECTS.",
+      "character": "A stickman is shown pointing to a stylized silhouette of Carl Jung, who is holding a speech bubble with the terms.",
+      "background": "Smooth paper texture color #F2F0EB.",
+      "animation_timeline": "At [0s]: A stickman appears. At [1.5s]: The text 'Carl Jung' (in rough handwritten font) slams onto the screen. At [3s]: A silhouette of Carl Jung appears. At [4.5s]: The text 'psychiatrist' (in rough handwritten font) pops up. At [6s]: The silhouette points to a speech bubble containing 'introversion' and 'extroversion'. At [7.5s]: The text 'coined terms' (in rough handwritten font) slides in. At [9.5s]: The silhouette shakes its head. At [10s]: The text 'different understanding' (in rough handwritten font) appears. At [11.979s]: The scene settles into a final static composition with the stickman and Jung's silhouette.",
+      "audio_notes": "[SFX: Slam, Pop, Slide, Shake]"
+    }
+  },
+  {
+    "scene_id": 7,
+    "duration": "12.346",
+    "highlight_keywords": ["unique strengths", "professional success"],
+    "prompt_components": {
+      "style": "Minimalist Motion Graphics. Everything is hand-drawn scribbles. Flat 2D style. Text must be rough handwritten font (scribbly ink). Using hex code #172126 on #F2F0EB paper background, with #BF4226 highlights. STRICTLY NO 3D, NO SHADOWS, NO REALISTIC EFFECTS.",
+      "character": "A stickman is shown holding a toolbox labeled 'Strengths', with a trophy icon.",
+      "background": "Smooth paper texture color #F2F0EB.",
+      "animation_timeline": "At [0s]: A stickman appears. At [1.5s]: The text 'unique strengths' (in rough handwritten font) pops up. At [3s]: A toolbox labeled 'Strengths' slams onto the screen. At [4.5s]: The stickman opens the toolbox, revealing icons. At [6s]: A trophy icon appears. At [7s]: The text 'professional success' (in rough handwritten font) slides in. At [9s]: The stickman holds up the trophy. At [10.5s]: The words 'unique strengths' and 'professional success' are highlighted with #BF4226. At [12.346s]: The scene settles into a final static composition with the stickman holding the trophy.",
+      "audio_notes": "[SFX: Pop, Slam, Open, Slide, Ding]"
+    }
+  },
+  {
+    "scene_id": 8,
+    "duration": "13.68",
+    "highlight_keywords": ["Jungian typology", "strategically", "energizes you"],
+    "prompt_components": {
+      "style": "Minimalist Motion Graphics. Everything is hand-drawn scribbles. Flat 2D style. Text must be rough handwritten font (scribbly ink). Using hex code #172126 on #F2F0EB paper background, with #BF4226 highlights. STRICTLY NO 3D, NO SHADOWS, NO REALISTIC EFFECTS.",
+      "character": "A stickman is shown looking at a mind map, then pointing towards a battery icon that is charging.",
+      "background": "Smooth paper texture color #F2F0EB.",
+      "animation_timeline": "At [0s]: A stickman appears. At [1.5s]: The text 'Jungian typology' (in rough handwritten font) slams onto the screen. At [3s]: A mind map appears around the stickman. At [4.5s]: The stickman points to the mind map. At [6s]: The text 'strategically' (in rough handwritten font) pops up. At [7.5s]: A battery icon appears and starts charging. At [9s]: The text 'energizes you' (in rough handwritten font) slides in, highlighted in #BF4226. At [11s]: The stickman smiles. At [13.68s]: The scene settles into a final static composition with the stickman and the charging battery.",
+      "audio_notes": "[SFX: Slam, Pop, Slide, Charge]"
+    }
+  },
+  {
+    "scene_id": 9,
+    "duration": "17.751",
+    "highlight_keywords": ["worst career strategy", "unlock levels of success", "satisfaction"],
+    "prompt_components": {
+      "style": "Minimalist Motion Graphics. Everything is hand-drawn scribbles. Flat 2D style. Text must be rough handwritten font (scribbly ink). Using hex code #172126 on #F2F0EB paper background, with #BF4226 highlights. STRICTLY NO 3D, NO SHADOWS, NO REALISTIC EFFECTS.",
+      "character": "A stickman is shown with a red 'X' over its head, then a door labeled 'Success' opens, and the stickman looks happy.",
+      "background": "Smooth paper texture color #F2F0EB.",
+      "animation_timeline": "At [0s]: A stickman appears with a red 'X' (#BF4226) over its head. At [2s]: The text 'worst career strategy' (in rough handwritten font) slams down. At [4s]: The 'X' disappears. At [5s]: A door labeled 'Success' appears. At [6.5s]: The door opens. At [8s]: The text 'unlock levels of success' (in rough handwritten font) pops up. At [10s]: The stickman walks through the door. At [11.5s]: The stickman looks happy, with stars around it. At [13s]: The text 'satisfaction' (in rough handwritten font) slides in. At [16s]: The stickman is shown in a bright, positive environment. At [17.751s]: The scene settles into a final static composition with the stickman looking satisfied.",
+      "audio_notes": "[SFX: Slam, Pop, Door Creak, Slide, Sparkle]"
+    }
+  },
+  {
+    "scene_id": 10,
+    "duration": "10.677",
+    "highlight_keywords": ["leverage", "Jungian type", "introversion", "extroversion"],
+    "prompt_components": {
+      "style": "Minimalist Motion Graphics. Everything is hand-drawn scribbles. Flat 2D style. Text must be rough handwritten font (scribbly ink). Using hex code #172126 on #F2F0EB paper background, with #BF4226 highlights. STRICTLY NO 3D, NO SHADOWS, NO REALISTIC EFFECTS.",
+      "character": "A stickman is shown holding a lever, then pointing to two distinct icons representing introversion and extroversion.",
+      "background": "Smooth paper texture color #F2F0EB.",
+      "animation_timeline": "At [0s]: A stickman appears. At [1.5s]: The text 'leverage' (in rough handwritten font) slams onto the screen. At [3s]: The stickman pulls a large lever. At [4.5s]: The text 'Jungian type' (in rough handwritten font) pops up. At [6s]: Two icons appear: one representing introversion (e.g., a person looking inward) and one for extroversion (e.g., a person looking outward). At [7.5s]: The stickman points to both icons. At [9s]: The text 'introversion' and 'extroversion' (in rough handwritten font) slide in below the icons. At [10.677s]: The scene settles into a final static composition with the stickman and the icons.",
+      "audio_notes": "[SFX: Slam, Pull, Pop, Slide]"
+    }
+  },
+  {
+    "scene_id": 11,
+    "duration": "8.408",
+    "highlight_keywords": ["popular culture", "reduced", "simple social preferences"],
+    "prompt_components": {
+      "style": "Minimalist Motion Graphics. Everything is hand-drawn scribbles. Flat 2D style. Text must be rough handwritten font (scribbly ink). Using hex code #172126 on #F2F0EB paper background, with #BF4226 highlights. STRICTLY NO 3D, NO SHADOWS, NO REALISTIC EFFECTS.",
+      "character": "A stickman is shown looking at a TV screen displaying simplified icons, then shaking its head.",
+      "background": "Smooth paper texture color #F2F0EB.",
+      "animation_timeline": "At [0s]: A stickman appears. At [1.5s]: The text 'popular culture' (in rough handwritten font) slams onto the screen. At [3s]: A TV screen appears showing simplified stick figures. At [4.5s]: The text 'reduced' (in rough handwritten font) pops up. At [6s]: The text 'simple social preferences' (in rough handwritten font) slides in. At [7s]: The stickman shakes its head. At [8.408s]: The scene settles into a final static composition with the stickman looking dismissive.",
+      "audio_notes": "[SFX: Slam, Pop, Slide, Shake]"
+    }
+  },
+  {
+    "scene_id": 12,
+    "duration": "5.839",
+    "highlight_keywords": ["Extroverts outgoing", "talkative", "Introverts shy", "quiet"],
+    "prompt_components": {
+      "style": "Minimalist Motion Graphics. Everything is hand-drawn scribbles. Flat 2D style. Text must be rough handwritten font (scribbly ink). Using hex code #172126 on #F2F0EB paper background, with #BF4226 highlights. STRICTLY NO 3D, NO SHADOWS, NO REALISTIC EFFECTS.",
+      "character": "Two stick figures are shown: one is talking animatedly, the other is hiding behind a plant.",
+      "background": "Smooth paper texture color #F2F0EB.",
+      "animation_timeline": "At [0s]: Two stick figures appear. At [1s]: The text 'Extroverts outgoing' (in rough handwritten font) appears next to the animated stick figure. At [2.5s]: The text 'talkative' (in rough handwritten font) pops up. At [3.5s]: The other stick figure hides behind a plant. At [4s]: The text 'Introverts shy' (in rough handwritten font) appears next to it. At [5s]: The text 'quiet' (in rough handwritten font) slides in. At [5.839s]: The scene settles into a final static composition with the two stick figures.",
+      "audio_notes": "[SFX: Pop, Slide, Whisper]"
+    }
+  },
+  {
+    "scene_id": 13,
+    "duration": "7.107",
+    "highlight_keywords": ["Jong's original concept", "sophisticated", "useful for career development"],
+    "prompt_components": {
+      "style": "Minimalist Motion Graphics. Everything is hand-drawn scribbles. Flat 2D style. Text must be rough handwritten font (scribbly ink). Using hex code #172126 on #F2F0EB paper background, with #BF4226 highlights. STRICTLY NO 3D, NO SHADOWS, NO REALISTIC EFFECTS.",
+      "character": "A stickman is shown holding a complex diagram, then pointing to a briefcase icon.",
+      "background": "Smooth paper texture color #F2F0EB.",
+      "animation_timeline": "At [0s]: A stickman appears. At [1.5s]: The text 'Jong's original concept' (in rough handwritten font) slams onto the screen. At [3s]: A complex, hand-drawn diagram appears. At [4.5s]: The text 'sophisticated' (in rough handwritten font) pops up. At [6s]: A briefcase icon appears. At [6.5s]: The text 'useful for career development' (in rough handwritten font) slides in. At [7.107s]: The scene settles into a final static composition with the stickman and the diagram.",
+      "audio_notes": "[SFX: Slam, Pop, Slide, Ding]"
+    }
+  },
+  {
+    "scene_id": 14,
+    "duration": "7.841",
+    "highlight_keywords": ["social skills", "preference for parties", "solitude"],
+    "prompt_components": {
+      "style": "Minimalist Motion Graphics. Everything is hand-drawn scribbles. Flat 2D style. Text must be rough handwritten font (scribbly ink). Using hex code #172126 on #F2F0EB paper background, with #BF4226 highlights. STRICTLY NO 3D, NO SHADOWS, NO REALISTIC EFFECTS.",
+      "character": "A stickman is shown with a speech bubble, then icons for a party and a book appear, with a red 'X' over them.",
+      "background": "Smooth paper texture color #F2F0EB.",
+      "animation_timeline": "At [0s]: A stickman appears. At [1.5s]: The text 'social skills' (in rough handwritten font) pops up. At [3s]: Icons for a party and a book appear. At [4s]: A red 'X' (#BF4226) slams over the icons. At [5s]: The text 'preference for parties' (in rough handwritten font) slides in. At [6s]: The text 'solitude' (in rough handwritten font) slides in. At [7.841s]: The scene settles into a final static composition with the stickman looking unimpressed.",
+      "audio_notes": "[SFX: Pop, Slam, Slide]"
+    }
+  },
+  {
+    "scene_id": 15,
+    "duration": "10.177",
+    "highlight_keywords": ["fundamental orientation", "psychic energy", "direct attention", "draw vitality"],
+    "prompt_components": {
+      "style": "Minimalist Motion Graphics. Everything is hand-drawn scribbles. Flat 2D style. Text must be rough handwritten font (scribbly ink). Using hex code #172126 on #F2F0EB paper background, with #BF4226 highlights. STRICTLY NO 3D, NO SHADOWS, NO REALISTIC EFFECTS.",
+      "character": "A stickman is shown with arrows pointing inwards and outwards from its head, representing energy flow.",
+      "background": "Smooth paper texture color #F2F0EB.",
+      "animation_timeline": "At [0s]: A stickman appears. At [1.5s]: The text 'fundamental orientation' (in rough handwritten font) slams onto the screen. At [3s]: Arrows start flowing inwards and outwards from the stickman's head. At [4.5s]: The text 'psychic energy' (in rough handwritten font) pops up. At [6s]: The text 'direct attention' (in rough handwritten font) slides in. At [7.5s]: The text 'draw vitality' (in rough handwritten font) slides in. At [9s]: The arrows pulse. At [10.177s]: The scene settles into a final static composition with the stickman and the pulsing arrows.",
+      "audio_notes": "[SFX: Slam, Pop, Slide, Pulse]"
+    }
+  },
+  {
+    "scene_id": 16,
+    "duration": "13.447",
+    "highlight_keywords": ["interest flows inward", "subject", "internal psychological processes", "ideas", "impressions", "reactions"],
+    "prompt_components": {
+      "style": "Minimalist Motion Graphics. Everything is hand-drawn scribbles. Flat 2D style. Text must be rough handwritten font (scribbly ink). Using hex code #172126 on #F2F0EB paper background, with #BF4226 highlights. STRICTLY NO 3D, NO SHADOWS, NO REALISTIC EFFECTS.",
+      "character": "A stickman is shown with thought bubbles containing abstract shapes and ideas, with arrows pointing inward.",
+      "background": "Smooth paper texture color #F2F0EB.",
+      "animation_timeline": "At [0s]: A stickman appears. At [1.5s]: The text 'interest flows inward' (in rough handwritten font) slams onto the screen. At [3s]: Thought bubbles with abstract shapes appear around the stickman. At [4.5s]: The text 'subject' (in rough handwritten font) pops up. At [6s]: The text 'internal psychological processes' (in rough handwritten font) slides in. At [8s]: The text 'ideas' (in rough handwritten font) appears. At [9.5s]: The text 'impressions' (in rough handwritten font) appears. At [11s]: The text 'reactions' (in rough handwritten font) appears. At [12s]: Arrows point inward towards the stickman. At [13.447s]: The scene settles into a final static composition with the stickman surrounded by thought bubbles.",
+      "audio_notes": "[SFX: Slam, Pop, Slide, Whoosh]"
+    }
+  },
+  {
+    "scene_id": 17,
+    "duration": "7.574",
+    "highlight_keywords": ["oriented toward inner world", "thoughts", "feelings", "reflections"],
+    "prompt_components": {
+      "style": "Minimalist Motion Graphics. Everything is hand-drawn scribbles. Flat 2D style. Text must be rough handwritten font (scribbly ink). Using hex code #172126 on #F2F0EB paper background, with #BF4226 highlights. STRICTLY NO 3D, NO SHADOWS, NO REALISTIC EFFECTS.",
+      "character": "A stickman is shown inside a bubble, looking introspective, with icons for thoughts, feelings, and reflections.",
+      "background": "Smooth paper texture color #F2F0EB.",
+      "animation_timeline": "At [0s]: A stickman appears inside a bubble. At [1.5s]: The text 'oriented toward inner world' (in rough handwritten font) slams onto the screen. At [3s]: Icons representing thoughts (lightbulb), feelings (heart), and reflections (mirror) appear. At [4.5s]: The text 'thoughts' (in rough handwritten font) pops up. At [5.5s]: The text 'feelings' (in rough handwritten font) pops up. At [6.5s]: The text 'reflections' (in rough handwritten font) pops up. At [7.574s]: The scene settles into a final static composition with the stickman inside the bubble.",
+      "audio_notes": "[SFX: Slam, Pop, Bubble Pop]"
+    }
+  },
+  {
+    "scene_id": 18,
+    "duration": "11.211",
+    "highlight_keywords": ["energy moves inward", "processed", "contemplated", "meaning", "outward action"],
+    "prompt_components": {
+      "style": "Minimalist Motion Graphics. Everything is hand-drawn scribbles. Flat 2D style. Text must be rough handwritten font (scribbly ink). Using hex code #172126 on #F2F0EB paper background, with #BF4226 highlights. STRICTLY NO 3D, NO SHADOWS, NO REALISTIC EFFECTS.",
+      "character": "A stickman is shown with energy flowing inward, then through a processing machine, then outward.",
+      "background": "Smooth paper texture color #F2F0EB.",
+      "animation_timeline": "At [0s]: A stickman appears. At [1.5s]: The text 'energy moves inward' (in rough handwritten font) slams onto the screen. At [3s]: Energy flows into the stickman. At [4.5s]: A simple machine icon appears. At [5.5s]: The text 'processed' (in rough handwritten font) appears above the machine. At [7s]: The text 'contemplated' (in rough handwritten font) appears. At [8.5s]: The text 'meaning' (in rough handwritten font) appears. At [9.5s]: Energy flows out of the machine. At [10s]: The text 'outward action' (in rough handwritten font) slides in. At [11.211s]: The scene settles into a final static composition with the energy flowing outward.",
+      "audio_notes": "[SFX: Slam, Whoosh, Machine Whir, Slide]"
+    }
+  },
+  {
+    "scene_id": 19,
+    "duration": "7.975",
+    "highlight_keywords": ["extrovert", "interest flowing outward", "object", "people", "things", "external events"],
+    "prompt_components": {
+      "style": "Minimalist Motion Graphics. Everything is hand-drawn scribbles. Flat 2D style. Text must be rough handwritten font (scribbly ink). Using hex code #172126 on #F2F0EB paper background, with #BF4226 highlights. STRICTLY NO 3D, NO SHADOWS, NO REALISTIC EFFECTS.",
+      "character": "A stickman is shown with arrows pointing outward towards icons of people, objects, and events.",
+      "background": "Smooth paper texture color #F2F0EB.",
+      "animation_timeline": "At [0s]: A stickman appears. At [1.5s]: The text 'extrovert' (in rough handwritten font) slams onto the screen. At [3s]: The text 'interest flowing outward' (in rough handwritten font) pops up. At [4.5s]: Icons of people, objects, and events appear. At [5.5s]: Arrows point from the stickman to these icons. At [6.5s]: The text 'object' (in rough handwritten font) appears. At [7s]: The text 'people' (in rough handwritten font) appears. At [7.5s]: The text 'things' (in rough handwritten font) appears. At [7.8s]: The text 'external events' (in rough handwritten font) appears. At [7.975s]: The scene settles into a final static composition with the stickman and the outward arrows.",
+      "audio_notes": "[SFX: Slam, Pop, Whoosh]"
+    }
+  },
+  {
+    "scene_id": 20,
+    "duration": "3.403",
+    "highlight_keywords": ["people", "things", "external events"],
+    "prompt_components": {
+      "style": "Minimalist Motion Graphics. Everything is hand-drawn scribbles. Flat 2D style. Text must be rough handwritten font (scribbly ink). Using hex code #172126 on #F2F0EB paper background, with #BF4226 highlights. STRICTLY NO 3D, NO SHADOWS, NO REALISTIC EFFECTS.",
+      "character": "Icons representing people, things, and external events are shown.",
+      "background": "Smooth paper texture color #F2F0EB.",
+      "animation_timeline": "At [0s]: Icons for people, things, and external events pop onto the screen. At [1.5s]: The text 'people' (in rough handwritten font) appears. At [2s]: The text 'things' (in rough handwritten font) appears. At [2.5s]: The text 'external events' (in rough handwritten font) appears. At [3.403s]: The scene settles into a final static composition with the icons and text.",
+      "audio_notes": "[SFX: Pop, Pop, Pop]"
+    }
+  },
+  {
+    "scene_id": 21,
+    "duration": "8.075",
+    "highlight_keywords": ["oriented toward outer world", "action", "interaction", "tangible reality"],
+    "prompt_components": {
+      "style": "Minimalist Motion Graphics. Everything is hand-drawn scribbles. Flat 2D style. Text must be rough handwritten font (scribbly ink). Using hex code #172126 on #F2F0EB paper background, with #BF4226 highlights. STRICTLY NO 3D, NO SHADOWS, NO REALISTIC EFFECTS.",
+      "character": "A stickman is shown interacting with various objects and other stick figures, with arrows pointing outward.",
+      "background": "Smooth paper texture color #F2F0EB.",
+      "animation_timeline": "At [0s]: A stickman appears. At [1.5s]: The text 'oriented toward outer world' (in rough handwritten font) slams onto the screen. At [3s]: The stickman interacts with icons of action (a gear), interaction (two people shaking hands), and tangible reality (a cube). At [4.5s]: Arrows point outward from the stickman. At [6s]: The text 'action' (in rough handwritten font) pops up. At [6.5s]: The text 'interaction' (in rough handwritten font) pops up. At [7s]: The text 'tangible reality' (in rough handwritten font) pops up. At [8.075s]: The scene settles into a final static composition with the stickman and outward arrows.",
+      "audio_notes": "[SFX: Slam, Pop, Whoosh]"
+    }
+  },
+  {
+    "scene_id": 22,
+    "duration": "8.942",
+    "highlight_keywords": ["energy moves outward", "expression", "vitality", "engagement", "external environment"],
+    "prompt_components": {
+      "style": "Minimalist Motion Graphics. Everything is hand-drawn scribbles. Flat 2D style. Text must be rough handwritten font (scribbly ink). Using hex code #172126 on #F2F0EB paper background, with #BF4226 highlights. STRICTLY NO 3D, NO SHADOWS, NO REALISTIC EFFECTS.",
+      "character": "A stickman is shown with energy flowing outward, interacting with the environment.",
+      "background": "Smooth paper texture color #F2F0EB.",
+      "animation_timeline": "At [0s]: A stickman appears. At [1.5s]: The text 'energy moves outward' (in rough handwritten font) slams onto the screen. At [3s]: Energy flows out of the stickman. At [4s]: The text 'expression' (in rough handwritten font) pops up. At [5s]: The text 'vitality' (in rough handwritten font) pops up. At [6s]: The stickman interacts with icons representing the external environment (e.g., trees, buildings). At [7s]: The text 'engagement' (in rough handwritten font) slides in. At [7.5s]: The text 'external environment' (in rough handwritten font) slides in. At [8.942s]: The scene settles into a final static composition with the stickman engaged with the environment.",
+      "audio_notes": "[SFX: Slam, Pop, Slide, Interaction Sound]"
+    }
+  },
+  {
+    "scene_id": 23,
+    "duration": "4.538",
+    
+
+--- PART BREAK ---
+
+[
+  {
+    "scene_id": 58,
+    "duration": "10.844",
+    "highlight_keywords": ["introverts", "career challenges"],
+    "prompt_components": {
+      "style": "Minimalist Motion Graphics. Everything is hand-drawn scribbles. Flat 2D style. Text must be rough handwritten font (scribbly ink). Using hex code #172126 on #F2F0EB paper background, with #BF4226 highlights. STRICTLY NO 3D, NO SHADOWS, NO REALISTIC EFFECTS.",
+      "character": "A stickman looking thoughtful, then a thought bubble appears with a question mark.",
+      "background": "Smooth paper texture color #F2F0EB.",
+      "animation_timeline": "At [0s]: A stickman appears. At [1.5s]: The text 'introverts' (in rough handwritten font) pops up. At [3s]: The text 'career challenges' (in rough handwritten font) slams onto the screen. At [End Time]: The scene settles into a final static composition with the stickman looking at the two text elements.",
+      "audio_notes": "[SFX: Pop, Slam, Paper rustle]"
+    }
+  },
+  {
+    "scene_id": 59,
+    "duration": "10.177",
+    "highlight_keywords": ["self-promotion", "networking", "visibility"],
+    "prompt_components": {
+      "style": "Minimalist Motion Graphics. Everything is hand-drawn scribbles. Flat 2D style. Text must be rough handwritten font (scribbly ink). Using hex code #172126 on #F2F0EB paper background, with #BF4226 highlights. STRICTLY NO 3D, NO SHADOWS, NO REALISTIC EFFECTS.",
+      "character": "A stickman trying to push a large block labeled 'accomplishments' but it's stuck.",
+      "background": "Smooth paper texture color #F2F0EB.",
+      "animation_timeline": "At [0s]: A stickman is shown struggling. At [1s]: The text 'self-promotion' (in rough handwritten font) slides in from the left. At [3s]: The text 'networking' (in rough handwritten font) pops up. At [5s]: The text 'visibility' (in rough handwritten font) slams down. At [End Time]: The scene settles into a final static composition with the stickman looking frustrated at the stuck block.",
+      "audio_notes": "[SFX: Grunt, Slide, Pop, Slam, Thud]"
+    }
+  },
+  {
+    "scene_id": 60,
+    "duration": "8.442",
+    "highlight_keywords": ["overlooked", "leadership roles", "stereotypical image"],
+    "prompt_components": {
+      "style": "Minimalist Motion Graphics. Everything is hand-drawn scribbles. Flat 2D style. Text must be rough handwritten font (scribbly ink). Using hex code #172126 on #F2F0EB paper background, with #BF4226 highlights. STRICTLY NO 3D, NO SHADOWS, NO REALISTIC EFFECTS.",
+      "character": "A stickman is standing behind a group of other stick figures who are all looking forward, ignoring the first stickman.",
+      "background": "Smooth paper texture color #F2F0EB.",
+      "animation_timeline": "At [0s]: A group of stick figures are animated. At [1s]: The text 'overlooked' (in rough handwritten font) appears. At [2.5s]: The text 'leadership roles' (in rough handwritten font) slides in. At [4s]: The text 'stereotypical image' (in rough handwritten font) pops up. At [End Time]: The scene settles into a final static composition with the first stickman looking sad.",
+      "audio_notes": "[SFX: Whoosh, Slide, Pop, Sad trombone]"
+    }
+  },
+  {
+    "scene_id": 61,
+    "duration": "9.776",
+    "highlight_keywords": ["burnout", "constant meetings", "open plan offices"],
+    "prompt_components": {
+      "style": "Minimalist Motion Graphics. Everything is hand-drawn scribbles. Flat 2D style. Text must be rough handwritten font (scribbly ink). Using hex code #172126 on #F2F0EB paper background, with #BF4226 highlights. STRICTLY NO 3D, NO SHADOWS, NO REALISTIC EFFECTS.",
+      "character": "A stickman is overwhelmed by speech bubbles and ringing phone icons.",
+      "background": "Smooth paper texture color #F2F0EB.",
+      "animation_timeline": "At [0s]: A stickman is shown looking stressed. At [1s]: The text 'burnout' (in rough handwritten font) slams down. At [2.5s]: The text 'constant meetings' (in rough handwritten font) pops up. At [4s]: The text 'open plan offices' (in rough handwritten font) slides in. At [End Time]: The scene settles into a final static composition with the stickman slumped over.",
+      "audio_notes": "[SFX: Buzz, Ring, Slam, Pop, Slide]"
+    }
+  },
+  {
+    "scene_id": 62,
+    "duration": "10.711",
+    "highlight_keywords": ["extroverted strengths", "energy flows outward"],
+    "prompt_components": {
+      "style": "Minimalist Motion Graphics. Everything is hand-drawn scribbles. Flat 2D style. Text must be rough handwritten font (scribbly ink). Using hex code #172126 on #F2F0EB paper background, with #BF4226 highlights. STRICTLY NO 3D, NO SHADOWS, NO REALISTIC EFFECTS.",
+      "character": "A stickman with an arrow pointing outwards from their chest, radiating energy.",
+      "background": "Smooth paper texture color #F2F0EB.",
+      "animation_timeline": "At [0s]: A stickman appears. At [1s]: The text 'extroverted strengths' (in rough handwritten font) pops up. At [3s]: The text 'energy flows outward' (in rough handwritten font) slides in with an outward arrow graphic. At [End Time]: The scene settles into a final static composition with the stickman looking energetic.",
+      "audio_notes": "[SFX: Pop, Slide, Whoosh]"
+    }
+  },
+  {
+    "scene_id": 63,
+    "duration": "7.975",
+    "highlight_keywords": ["building networks", "generating ideas", "taking action"],
+    "prompt_components": {
+      "style": "Minimalist Motion Graphics. Everything is hand-drawn scribbles. Flat 2D style. Text must be rough handwritten font (scribbly ink). Using hex code #172126 on #F2F0EB paper background, with #BF4226 highlights. STRICTLY NO 3D, NO SHADOWS, NO REALISTIC EFFECTS.",
+      "character": "A stickman connecting dots to form a network, then a lightbulb appears.",
+      "background": "Smooth paper texture color #F2F0EB.",
+      "animation_timeline": "At [0s]: A stickman is shown. At [1s]: The text 'building networks' (in rough handwritten font) appears. At [2.5s]: The text 'generating ideas' (in rough handwritten font) pops up with a lightbulb. At [4s]: The text 'taking action' (in rough handwritten font) slams down. At [End Time]: The scene settles into a final static composition with the stickman pointing forward.",
+      "audio_notes": "[SFX: Click, Pop, Lightbulb ding, Slam]"
+    }
+  },
+  {
+    "scene_id": 64,
+    "duration": "8.509",
+    "highlight_keywords": ["variety", "stimulation", "engagement"],
+    "prompt_components": {
+      "style": "Minimalist Motion Graphics. Everything is hand-drawn scribbles. Flat 2D style. Text must be rough handwritten font (scribbly ink). Using hex code #172126 on #F2F0EB paper background, with #BF4226 highlights. STRICTLY NO 3D, NO SHADOWS, NO REALISTIC EFFECTS.",
+      "character": "A stickman juggling multiple colorful icons representing variety, stimulation, and engagement.",
+      "background": "Smooth paper texture color #F2F0EB.",
+      "animation_timeline": "At [0s]: A stickman appears. At [1s]: The text 'variety' (in rough handwritten font) pops up. At [2.5s]: The text 'stimulation' (in rough handwritten font) slides in. At [4s]: The text 'engagement' (in rough handwritten font) slams down. At [End Time]: The scene settles into a final static composition with the stickman looking excited.",
+      "audio_notes": "[SFX: Pop, Slide, Slam, Juggling sounds]"
+    }
+  },
+  {
+    "scene_id": 65,
+    "duration": "23.691",
+    "highlight_keywords": ["relationship building", "communication", "problem solving", "sales", "business development", "public relations", "teaching", "event management", "hospitality", "entrepreneurship"],
+    "prompt_components": {
+      "style": "Minimalist Motion Graphics. Everything is hand-drawn scribbles. Flat 2D style. Text must be rough handwritten font (scribbly ink). Using hex code #172126 on #F2F0EB paper background, with #BF4226 highlights. STRICTLY NO 3D, NO SHADOWS, NO REALISTIC EFFECTS.",
+      "character": "A stickman shaking hands, talking to a group, and solving a puzzle.",
+      "background": "Smooth paper texture color #F2F0EB.",
+      "animation_timeline": "At [0s]: A stickman appears. At [1s]: The text 'relationship building' (in rough handwritten font) pops up. At [3s]: The text 'communication' (in rough handwritten font) slides in. At [5s]: The text 'problem solving' (in rough handwritten font) slams down. At [7s]: A series of keywords like 'sales', 'business development', 'public relations', 'teaching', 'event management', 'hospitality', 'entrepreneurship' (in rough handwritten font) pop up and arrange themselves. At [End Time]: The scene settles into a final static composition with the stickman looking confident.",
+      "audio_notes": "[SFX: Pop, Slide, Slam, Handshake, Crowd murmur, Puzzle click]"
+    }
+  },
+  {
+    "scene_id": 66,
+    "duration": "2.736",
+    "highlight_keywords": ["not limited"],
+    "prompt_components": {
+      "style": "Minimalist Motion Graphics. Everything is hand-drawn scribbles. Flat 2D style. Text must be rough handwritten font (scribbly ink). Using hex code #172126 on #F2F0EB paper background, with #BF4226 highlights. STRICTLY NO 3D, NO SHADOWS, NO REALISTIC EFFECTS.",
+      "character": "A stickman shrugs with an open hand gesture.",
+      "background": "Smooth paper texture color #F2F0EB.",
+      "animation_timeline": "At [0s]: A stickman appears. At [0.5s]: The text 'not limited' (in rough handwritten font) pops up. At [End Time]: The scene settles into a final static composition with the stickman shrugging.",
+      "audio_notes": "[SFX: Pop, Shrug sound]"
+    }
+  },
+  {
+    "scene_id": 67,
+    "duration": "13.313",
+    "highlight_keywords": ["researchers", "engineers", "analysts", "collaborate", "share ideas", "build teams"],
+    "prompt_components": {
+      "style": "Minimalist Motion Graphics. Everything is hand-drawn scribbles. Flat 2D style. Text must be rough handwritten font (scribbly ink). Using hex code #172126 on #F2F0EB paper background, with #BF4226 highlights. STRICTLY NO 3D, NO SHADOWS, NO REALISTIC EFFECTS.",
+      "character": "Stick figures collaborating around a table, sharing ideas represented by lightbulbs.",
+      "background": "Smooth paper texture color #F2F0EB.",
+      "animation_timeline": "At [0s]: Stick figures appear. At [1s]: The text 'researchers' (in rough handwritten font) pops up. At [2.5s]: The text 'engineers' (in rough handwritten font) slides in. At [4s]: The text 'analysts' (in rough handwritten font) slams down. At [6s]: The text 'collaborate' (in rough handwritten font) appears. At [8s]: The text 'share ideas' (in rough handwritten font) pops up. At [10s]: The text 'build teams' (in rough handwritten font) slides in. At [End Time]: The scene settles into a final static composition with the stick figures working together.",
+      "audio_notes": "[SFX: Pop, Slide, Slam, Collaboration sounds, Lightbulb ding]"
+    }
+  },
+  {
+    "scene_id": 68,
+    "duration": "12.145",
+    "highlight_keywords": ["networking", "energized", "meeting new people", "exploring connections"],
+    "prompt_components": {
+      "style": "Minimalist Motion Graphics. Everything is hand-drawn scribbles. Flat 2D style. Text must be rough handwritten font (scribbly ink). Using hex code #172126 on #F2F0EB paper background, with #BF4226 highlights. STRICTLY NO 3D, NO SHADOWS, NO REALISTIC EFFECTS.",
+      "character": "A stickman happily shaking hands with multiple other stick figures.",
+      "background": "Smooth paper texture color #F2F0EB.",
+      "animation_timeline": "At [0s]: A stickman appears. At [1s]: The text 'networking' (in rough handwritten font) pops up. At [3s]: The text 'energized' (in rough handwritten font) slides in. At [5s]: The text 'meeting new people' (in rough handwritten font) slams down. At [7s]: The text 'exploring connections' (in rough handwritten font) pops up. At [End Time]: The scene settles into a final static composition with the stickman surrounded by connections.",
+      "audio_notes": "[SFX: Pop, Slide, Slam, Handshake, Upbeat music sting]"
+    }
+  },
+  {
+    "scene_id": 69,
+    "duration": "8.375",
+    "highlight_keywords": ["career opportunities", "network", "job boards"],
+    "prompt_components": {
+      "style": "Minimalist Motion Graphics. Everything is hand-drawn scribbles. Flat 2D style. Text must be rough handwritten font (scribbly ink). Using hex code #172126 on #F2F0EB paper background, with #BF4226 highlights. STRICTLY NO 3D, NO SHADOWS, NO REALISTIC EFFECTS.",
+      "character": "A stickman looking at a board with job listings, then a network of lines appears connecting to new opportunities.",
+      "background": "Smooth paper texture color #F2F0EB.",
+      "animation_timeline": "At [0s]: A stickman is shown. At [1s]: The text 'career opportunities' (in rough handwritten font) pops up. At [3s]: The text 'network' (in rough handwritten font) slides in. At [5s]: The text 'job boards' (in rough handwritten font) slams down. At [End Time]: The scene settles into a final static composition with the stickman pointing towards the network.",
+      "audio_notes": "[SFX: Pop, Slide, Slam, Network connection sound]"
+    }
+  },
+  {
+    "scene_id": 70,
+    "duration": "7.274",
+    "highlight_keywords": ["introductions", "decision makers", "open doors"],
+    "prompt_components": {
+      "style": "Minimalist Motion Graphics. Everything is hand-drawn scribbles. Flat 2D style. Text must be rough handwritten font (scribbly ink). Using hex code #172126 on #F2F0EB paper background, with #BF4226 highlights. STRICTLY NO 3D, NO SHADOWS, NO REALISTIC EFFECTS.",
+      "character": "A stickman receiving a handshake from another stickman, then a door opens.",
+      "background": "Smooth paper texture color #F2F0EB.",
+      "animation_timeline": "At [0s]: A stickman appears. At [1s]: The text 'introductions' (in rough handwritten font) pops up. At [2.5s]: The text 'decision makers' (in rough handwritten font) slides in. At [4s]: The text 'open doors' (in rough handwritten font) slams down as a door graphic opens. At [End Time]: The scene settles into a final static composition with the stickman walking through the open door.",
+      "audio_notes": "[SFX: Pop, Slide, Slam, Handshake, Door creak]"
+    }
+  },
+  {
+    "scene_id": 71,
+    "duration": "5.973",
+    "highlight_keywords": ["visibility", "self-promotion"],
+    "prompt_components": {
+      "style": "Minimalist Motion Graphics. Everything is hand-drawn scribbles. Flat 2D style. Text must be rough handwritten font (scribbly ink). Using hex code #172126 on #F2F0EB paper background, with #BF4226 highlights. STRICTLY NO 3D, NO SHADOWS, NO REALISTIC EFFECTS.",
+      "character": "A stickman standing on a small stage with a spotlight on them.",
+      "background": "Smooth paper texture color #F2F0EB.",
+      "animation_timeline": "At [0s]: A stickman appears. At [1s]: The text 'visibility' (in rough handwritten font) pops up. At [2.5s]: The text 'self-promotion' (in rough handwritten font) slides in. At [End Time]: The scene settles into a final static composition with the stickman confidently standing in the spotlight.",
+      "audio_notes": "[SFX: Pop, Slide, Spotlight hum]"
+    }
+  },
+  {
+    "scene_id": 72,
+    "duration": "10.744",
+    "highlight_keywords": ["articulate ideas", "accomplishments", "work gets noticed"],
+    "prompt_components": {
+      "style": "Minimalist Motion Graphics. Everything is hand-drawn scribbles. Flat 2D style. Text must be rough handwritten font (scribbly ink). Using hex code #172126 on #F2F0EB paper background, with #BF4226 highlights. STRICTLY NO 3D, NO SHADOWS, NO REALISTIC EFFECTS.",
+      "character": "A stickman speaking clearly into a microphone, with icons of ideas and achievements appearing around them.",
+      "background": "Smooth paper texture color #F2F0EB.",
+      "animation_timeline": "At [0s]: A stickman appears. At [1s]: The text 'articulate ideas' (in rough handwritten font) pops up. At [3s]: The text 'accomplishments' (in rough handwritten font) slides in. At [5s]: The text 'work gets noticed' (in rough handwritten font) slams down. At [End Time]: The scene settles into a final static composition with the stickman looking proud.",
+      "audio_notes": "[SFX: Pop, Slide, Slam, Microphone feedback]"
+    }
+  },
+  {
+    "scene_id": 73,
+    "duration": "6.573",
+    "highlight_keywords": ["top of mind", "leadership material"],
+    "prompt_components": {
+      "style": "Minimalist Motion Graphics. Everything is hand-drawn scribbles. Flat 2D style. Text must be rough handwritten font (scribbly ink). Using hex code #172126 on #F2F0EB paper background, with #BF4226 highlights. STRICTLY NO 3D, NO SHADOWS, NO REALISTIC EFFECTS.",
+      "character": "A stickman at the top of a pyramid of other stick figures.",
+      "background": "Smooth paper texture color #F2F0EB.",
+      "animation_timeline": "At [0s]: A stickman appears. At [1s]: The text 'top of mind' (in rough handwritten font) pops up. At [2.5s]: The text 'leadership material' (in rough handwritten font) slides in. At [End Time]: The scene settles into a final static composition with the stickman at the peak of the pyramid.",
+      "audio_notes": "[SFX: Pop, Slide, Ascending chime]"
+    }
+  },
+  {
+    "scene_id": 74,
+    "duration": "6.106",
+    "highlight_keywords": ["thinking on their feet", "adapting"],
+    "prompt_components": {
+      "style": "Minimalist Motion Graphics. Everything is hand-drawn scribbles. Flat 2D style. Text must be rough handwritten font (scribbly ink). Using hex code #172126 on #F2F0EB paper background, with #BF4226 highlights. STRICTLY NO 3D, NO SHADOWS, NO REALISTIC EFFECTS.",
+      "character": "A stickman quickly changing direction while running.",
+      "background": "Smooth paper texture color #F2F0EB.",
+      "animation_timeline": "At [0s]: A stickman appears. At [1s]: The text 'thinking on their feet' (in rough handwritten font) pops up. At [2.5s]: The text 'adapting' (in rough handwritten font) slides in as the stickman pivots. At [End Time]: The scene settles into a final static composition with the stickman looking agile.",
+      "audio_notes": "[SFX: Pop, Slide, Quick pivot sound]"
+    }
+  },
+  {
+    "scene_id": 75,
+    "duration": "13.914",
+    "highlight_keywords": ["dynamic situations", "pivot strategies", "respond to feedback"],
+    "prompt_components": {
+      "style": "Minimalist Motion Graphics. Everything is hand-drawn scribbles. Flat 2D style. Text must be rough handwritten font (scribbly ink). Using hex code #172126 on #F2F0EB paper background, with #BF4226 highlights. STRICTLY NO 3D, NO SHADOWS, NO REALISTIC EFFECTS.",
+      "character": "A stickman navigating a maze that is constantly changing.",
+      "background": "Smooth paper texture color #F2F0EB.",
+      "animation_timeline": "At [0s]: A stickman appears. At [1s]: The text 'dynamic situations' (in rough handwritten font) pops up. At [3s]: The text 'pivot strategies' (in rough handwritten font) slides in. At [5s]: The text 'respond to feedback' (in rough handwritten font) slams down. At [End Time]: The scene settles into a final static composition with the stickman successfully navigating the maze.",
+      "audio_notes": "[SFX: Pop, Slide, Slam, Maze shifting sound]"
+    }
+  },
+  {
+    "scene_id": 76,
+    "duration": "10.01",
+    "highlight_keywords": ["fast paced environments", "crisis situations", "challenges"],
+    "prompt_components": {
+      "style": "Minimalist Motion Graphics. Everything is hand-drawn scribbles. Flat 2D style. Text must be rough handwritten font (scribbly ink). Using hex code #172126 on #F2F0EB paper background, with #BF4226 highlights. STRICTLY NO 3D, NO SHADOWS, NO REALISTIC EFFECTS.",
+      "character": "A stickman running through a chaotic scene with flashing lights and sirens.",
+      "background": "Smooth paper texture color #F2F0EB.",
+      "animation_timeline": "At [0s]: A stickman appears. At [1s]: The text 'fast paced environments' (in rough handwritten font) pops up. At [3s]: The text 'crisis situations' (in rough handwritten font) slides in. At [5s]: The text 'challenges' (in rough handwritten font) slams down. At [End Time]: The scene settles into a final static composition with the stickman looking determined.",
+      "audio_notes": "[SFX: Pop, Slide, Slam, Siren, Fast heartbeat]"
+    }
+  },
+  {
+    "scene_id": 77,
+    "duration": "6.006",
+    "highlight_keywords": ["solitary focused work"],
+    "prompt_components": {
+      "style": "Minimalist Motion Graphics. Everything is hand-drawn scribbles. Flat 2D style. Text must be rough handwritten font (scribbly ink). Using hex code #172126 on #F2F0EB paper background, with #BF4226 highlights. STRICTLY NO 3D, NO SHADOWS, NO REALISTIC EFFECTS.",
+      "character": "A stickman trying to focus on a book but being distracted by external elements.",
+      "background": "Smooth paper texture color #F2F0EB.",
+      "animation_timeline": "At [0s]: A stickman appears. At [1s]: The text 'solitary focused work' (in rough handwritten font) pops up. At [End Time]: The scene settles into a final static composition with the stickman looking frustrated.",
+      "audio_notes": "[SFX: Pop, Distraction sounds]"
+    }
+  },
+  {
+    "scene_id": 78,
+    "duration": "6.807",
+    "highlight_keywords": ["deep expertise", "variety", "new experiences"],
+    "prompt_components": {
+      "style": "Minimalist Motion Graphics. Everything is hand-drawn scribbles. Flat 2D style. Text must be rough handwritten font (scribbly ink). Using hex code #172126 on #F2F0EB paper background, with #BF4226 highlights. STRICTLY NO 3D, NO SHADOWS, NO REALISTIC EFFECTS.",
+      "character": "A stickman trying to dig deep into one hole but keeps getting pulled towards other shallow holes.",
+      "background": "Smooth paper texture color #F2F0EB.",
+      "animation_timeline": "At [0s]: A stickman appears. At [1s]: The text 'deep expertise' (in rough handwritten font) pops up. At [2.5s]: The text 'variety' (in rough handwritten font) slides in. At [4s]: The text 'new experiences' (in rough handwritten font) slams down. At [End Time]: The scene settles into a final static composition with the stickman looking conflicted.",
+      "audio_notes": "[SFX: Pop, Slide, Slam, Digging sound, Distraction sounds]"
+    }
+  },
+  {
+    "scene_id": 79,
+    "duration": "4.371",
+    "highlight_keywords": ["hasty decisions", "bias toward action"],
+    "prompt_components": {
+      "style": "Minimalist Motion Graphics. Everything is hand-drawn scribbles. Flat 2D style. Text must be rough handwritten font (scribbly ink). Using hex code #172126 on #F2F0EB paper background, with #BF4226 highlights. STRICTLY NO 3D, NO SHADOWS, NO REALISTIC EFFECTS.",
+      "character": "A stickman jumping off a cliff without looking.",
+      "background": "Smooth paper texture color #F2F0EB.",
+      "animation_timeline": "At [0s]: A stickman appears. At [0.5s]: The text 'hasty decisions' (in rough handwritten font) pops up. At [1.5s]: The text 'bias toward action' (in rough handwritten font) slides in as the stickman jumps. At [End Time]: The scene settles into a final static composition with the stickman in mid-air.",
+      "audio_notes": "[SFX: Pop, Slide, Jump sound]"
+    }
+  },
+  {
+    "scene_id": 80,
+    "duration": "10.443",
+    "highlight_keywords": ["reflection", "burnout", "collaboration", "interaction"],
+    "prompt_components": {
+      "style": "Minimalist Motion Graphics. Everything is hand-drawn scribbles. Flat 2D style. Text must be rough handwritten font (scribbly ink). Using hex code #172126 on #F2F0EB paper background, with #BF4226 highlights. STRICTLY NO 3D, NO SHADOWS, NO REALISTIC EFFECTS.",
+      "character": "A stickman looking exhausted in an isolated room, then a group of stick figures try to pull them out.",
+      "background": "Smooth paper texture color #F2F0EB.",
+      "animation_timeline": "At [0s]: A stickman appears. At [1s]: The text 'reflection' (in rough handwritten font) pops up. At [2.5s]: The text 'burnout' (in rough handwritten font) slides in. At [4s]: The text 'collaboration' (in rough handwritten font) slams down. At [6s]: The text 'interaction' (in rough handwritten font) pops up. At [End Time]: The scene settles into a final static composition with the stickman looking overwhelmed.",
+      "audio_notes": "[SFX: Pop, Slide, Slam, Sigh, Crowd murmur]"
+    }
+  },
+  {
+    "scene_id": 81,
+    "duration": "8.042",
+    "highlight_keywords": ["leverage your type"],
+    "prompt_components": {
+      "style": "Minimalist Motion Graphics. Everything is hand-drawn scribbles. Flat 2D style. Text must be rough handwritten font (scribbly ink). Using hex code #172126 on #F2F0EB paper background, with #BF4226 highlights. STRICTLY NO 3D, NO SHADOWS, NO REALISTIC EFFECTS.",
+      "character": "A stickman holding a magnifying glass over their own silhouette, then a lightbulb appears.",
+      "background": "Smooth paper texture color #F2F0EB.",
+      "animation_timeline": "At [0s]: A stickman appears. At [1s]: The text 'leverage your type' (in rough handwritten font) pops up. At [End Time]: The scene settles into a final static composition with the stickman looking enlightened.",
+      "audio_notes": "[SFX: Pop, Magnifying glass sound, Lightbulb ding]"
+    }
+  },
+  {
+    "scene_id": 82,
+    "duration": "7.574",
+    "highlight_keywords": ["choosing roles", "environments", "align with strengths"],
+    "prompt_components": {
+      "style": "Minimalist Motion Graphics. Everything is hand-drawn scribbles. Flat 2D style. Text must be rough handwritten font (scribbly ink). Using hex code #172126 on #F2F0EB paper background, with #BF4226 highlights. STRICTLY NO 3D, NO SHADOWS, NO REALISTIC EFFECTS.",
+      "character": "A stickman selecting a puzzle piece that perfectly fits into their silhouette.",
+      "background": "Smooth paper texture color #F2F0EB.",
+      "animation_timeline": "At [0s]: A stickman appears. At [1s]: The text 'choosing roles' (in rough handwritten font) pops up. At [2.5s]: The text 'environments' (in rough handwritten font) slides in. At [4s]: The text 'align with strengths' (in rough handwritten font) slams down. At [End Time]: The scene settles into a final static composition with the puzzle piece fitting perfectly.",
+      "audio_notes": "[SFX: Pop, Slide, Slam, Puzzle piece click]"
+    }
+  },
+  {
+    "scene_id": 83,
+    "duration": "5.105",
+    "highlight_keywords": ["managing challenges", "strategies"],
+    "prompt_components": {
+      "style": "Minimalist Motion Graphics. Everything is hand-drawn scribbles. Flat 2D style. Text must be rough handwritten font (scribbly ink). Using hex code #172126 on #F2F0EB paper background, with #BF4226 highlights. STRICTLY NO 3D, NO SHADOWS, NO REALISTIC EFFECTS.",
+      "character": "A stickman holding a toolbox with various tools inside.",
+      "background": "Smooth paper texture color #F2F0EB.",
+      "animation_timeline": "At [0s]: A stickman appears. At [1s]: The text 'managing challenges' (in rough handwritten font) pops up. At [2.5s]: The text 'strategies' (in rough handwritten font) slides in. At [End Time]: The scene settles into a final static composition with the stickman holding the toolbox.",
+      "audio_notes": "[SFX: Pop, Slide, Toolbox opening sound]"
+    }
+  },
+  {
+    "scene_id": 84,
+    "duration": "10.911",
+    "highlight_keywords": ["access non-preferred orientation", "energy cost"],
+    "prompt_components": {
+      "style": "Minimalist Motion Graphics. Everything is hand-drawn scribbles. Flat 2D style. Text must be rough handwritten font (scribbly ink). Using hex code #172126 on #F2F0EB paper background, with #BF4226 highlights. STRICTLY NO 3D, NO SHADOWS, NO REALISTIC EFFECTS.",
+      "character": "A stickman with a battery icon that drains as they perform an action.",
+      "background": "Smooth paper texture color #F2F0EB.",
+      "animation_timeline": "At [0s]: A stickman appears. At [1s]: The text 'access non-preferred orientation' (in rough handwritten font) pops up. At [3s]: The text 'energy cost' (in rough handwritten font) slides in as the battery drains. At [End Time]: The scene settles into a final static composition with the stickman looking tired and the battery low.",
+      "audio_notes": "[SFX: Pop, Slide, Battery drain sound, Sigh]"
+    }
+  },
+  {
+    "scene_id": 85,
+    "duration": "10.377",
+    "highlight_keywords": ["introvert", "deep work", "independent projects", "one on one interactions"],
+    "prompt_components": {
+      "style": "Minimalist Motion Graphics. Everything is hand-drawn scribbles. Flat 2D style. Text must be rough handwritten font (scribbly ink). Using hex code #172126 on #F2F0EB paper background, with #BF42
+
+--- PART BREAK ---
+
+[
+  {
+    "scene_id": 115,
+    "duration": "6.507",
+    "highlight_keywords": ["collaborative breaks", "independent work"],
+    "prompt_components": {
+      "style": "Minimalist Motion Graphics. Everything is hand-drawn scribbles. Flat 2D style. Text must be rough handwritten font (scribbly ink). Using hex code #172126 on #F2F0EB paper background, with #BF4226 highlights. STRICTLY NO 3D, NO SHADOWS, NO REALISTIC EFFECTS.",
+      "character": "A stickman is shown working intensely at a desk, looking overwhelmed. Then, another stickman pops in, offering a friendly gesture.",
+      "background": "Smooth paper texture color #F2F0EB.",
+      "animation_timeline": "At [0s]: A stickman is shown working intensely at a desk. At [1.5s]: The text 'INDEPENDENT WORK' slams onto the screen. At [3s]: The text 'COLLABORATIVE BREAKS' pops up next to it. At [5s]: Another stickman appears, offering a friendly gesture. At [6.507s]: The scene settles into a final static composition with the stickman at the desk looking relieved and the other stickman smiling.",
+      "audio_notes": "[SFX: Typing sounds, then a gentle pop, then a friendly chime.]"
+    }
+  },
+  {
+    "scene_id": 116,
+    "duration": "6.907",
+    "highlight_keywords": ["working sessions", "colleagues", "walking calls"],
+    "prompt_components": {
+      "style": "Minimalist Motion Graphics. Everything is hand-drawn scribbles. Flat 2D style. Text must be rough handwritten font (scribbly ink). Using hex code #172126 on #F2F0EB paper background, with #BF4226 highlights. STRICTLY NO 3D, NO SHADOWS, NO REALISTIC EFFECTS.",
+      "character": "Stickmen are shown in a virtual meeting, then walking and talking on phones.",
+      "background": "Smooth paper texture color #F2F0EB.",
+      "animation_timeline": "At [0s]: Several stickmen appear in a grid, representing a virtual meeting. At [1s]: The text 'WORKING SESSIONS' slides in. At [2.5s]: The stickmen icons disappear. At [3s]: A stickman is shown walking, holding a phone to its ear. At [4.5s]: The text 'WALKING CALLS' pops up. At [6.907s]: The scene settles into a final static composition with the walking stickman looking engaged.",
+      "audio_notes": "[SFX: Digital chime, then footsteps, then a subtle phone ringing.]"
+    }
+  },
+  {
+    "scene_id": 117,
+    "duration": "6.006",
+    "highlight_keywords": ["voice memos", "teaching"],
+    "prompt_components": {
+      "style": "Minimalist Motion Graphics. Everything is hand-drawn scribbles. Flat 2D style. Text must be rough handwritten font (scribbly ink). Using hex code #172126 on #F2F0EB paper background, with #BF4226 highlights. STRICTLY NO 3D, NO SHADOWS, NO REALISTIC EFFECTS.",
+      "character": "A stickman records a voice memo, then explains something to another stickman.",
+      "background": "Smooth paper texture color #F2F0EB.",
+      "animation_timeline": "At [0s]: A stickman holds a microphone icon to its mouth. At [1s]: The text 'VOICE MEMOS' slams onto the screen. At [2.5s]: The microphone icon disappears. At [3s]: The stickman is now pointing at a whiteboard, explaining to another stickman. At [4.5s]: The text 'TEACHING' pops up. At [6.006s]: The scene settles into a final static composition with both stickmen looking engaged.",
+      "audio_notes": "[SFX: Recording beep, then a gentle 'aha' sound, then a clear explanation sound.]"
+    }
+  },
+  {
+    "scene_id": 118,
+    "duration": "8.609",
+    "highlight_keywords": ["professional groups", "interaction", "advanced insight"],
+    "prompt_components": {
+      "style": "Minimalist Motion Graphics. Everything is hand-drawn scribbles. Flat 2D style. Text must be rough handwritten font (scribbly ink). Using hex code #172126 on #F2F0EB paper background, with #BF4226 highlights. STRICTLY NO 3D, NO SHADOWS, NO REALISTIC EFFECTS.",
+      "character": "Stickmen are shown in a group setting, then one stickman points to a lightbulb icon.",
+      "background": "Smooth paper texture color #F2F0EB.",
+      "animation_timeline": "At [0s]: Several stickmen are gathered in a circle. At [1.5s]: The text 'PROFESSIONAL GROUPS' slides in. At [3s]: The stickmen disperse slightly, interacting. At [4.5s]: The text 'INTERACTION' pops up. At [6s]: One stickman points to a glowing lightbulb icon. At [7s]: The text 'ADVANCED INSIGHT' slams onto the screen. At [8.609s]: The scene settles into a final static composition with the stickman pointing at the lightbulb.",
+      "audio_notes": "[SFX: Muffled chatter, then a 'ding' sound, then a bright 'aha' sound.]"
+    }
+  },
+  {
+    "scene_id": 119,
+    "duration": "11.045",
+    "highlight_keywords": ["access", "orientations", "unconscious", "primitive"],
+    "prompt_components": {
+      "style": "Minimalist Motion Graphics. Everything is hand-drawn scribbles. Flat 2D style. Text must be rough handwritten font (scribbly ink). Using hex code #172126 on #F2F0EB paper background, with #BF4226 highlights. STRICTLY NO 3D, NO SHADOWS, NO REALISTIC EFFECTS.",
+      "character": "A stickman is shown with two arrows pointing in opposite directions, one bright, one dim.",
+      "background": "Smooth paper texture color #F2F0EB.",
+      "animation_timeline": "At [0s]: A stickman stands in the center. At [1.5s]: Two arrows appear, one pointing left (bright) and one pointing right (dim). At [3s]: The text 'ACCESS ORIENTATIONS' slams onto the screen. At [5s]: The bright arrow pulses. At [6.5s]: The text 'CONSCIOUS' appears near the bright arrow. At [8s]: The dim arrow flickers. At [9.5s]: The text 'UNCONSCIOUS' appears near the dim arrow. At [11.045s]: The scene settles into a final static composition with the two arrows and text.",
+      "audio_notes": "[SFX: Gentle pulse, then a flicker sound, then a subtle hum.]"
+    }
+  },
+  {
+    "scene_id": 120,
+    "duration": "4.237",
+    "highlight_keywords": ["inferior function", "less developed"],
+    "prompt_components": {
+      "style": "Minimalist Motion Graphics. Everything is hand-drawn scribbles. Flat 2D style. Text must be rough handwritten font (scribbly ink). Using hex code #172126 on #F2F0EB paper background, with #BF4226 highlights. STRICTLY NO 3D, NO SHADOWS, NO REALISTIC EFFECTS.",
+      "character": "A stickman points to a smaller, less defined stickman.",
+      "background": "Smooth paper texture color #F2F0EB.",
+      "animation_timeline": "At [0s]: A stickman stands prominently. At [1s]: A smaller, less defined stickman appears beside it. At [2s]: The text 'INFERIOR FUNCTION' slams onto the screen. At [3s]: The smaller stickman is highlighted with a red outline. At [4.237s]: The scene settles into a final static composition with the two stickmen and the text.",
+      "audio_notes": "[SFX: A subtle 'thud', then a clear 'ding' for the text.]"
+    }
+  },
+  {
+    "scene_id": 121,
+    "duration": "8.609",
+    "highlight_keywords": ["crucial", "emerge under stress", "dysfunctional ways"],
+    "prompt_components": {
+      "style": "Minimalist Motion Graphics. Everything is hand-drawn scribbles. Flat 2D style. Text must be rough handwritten font (scribbly ink). Using hex code #172126 on #F2F0EB paper background, with #BF4226 highlights. STRICTLY NO 3D, NO SHADOWS, NO REALISTIC EFFECTS.",
+      "character": "A stickman looks stressed, with jagged lines appearing around it. Then, the lines become more chaotic.",
+      "background": "Smooth paper texture color #F2F0EB.",
+      "animation_timeline": "At [0s]: A stickman is shown looking calm. At [1.5s]: Jagged red lines start to appear around the stickman. At [3s]: The text 'EMERGE UNDER STRESS' slams onto the screen. At [4.5s]: The lines become more chaotic and erratic. At [6s]: The text 'DYSFUNCTIONAL WAYS' pops up. At [8.609s]: The scene settles into a final static composition with the stressed stickman surrounded by chaotic lines.",
+      "audio_notes": "[SFX: A low hum, then a crackling sound, then a sharp 'thump'.]"
+    }
+  },
+  {
+    "scene_id": 122,
+    "duration": "14.681",
+    "highlight_keywords": ["introverts", "uncontrolled outbursts", "manic social activity", "exhaustion"],
+    "prompt_components": {
+      "style": "Minimalist Motion Graphics. Everything is hand-drawn scribbles. Flat 2D style. Text must be rough handwritten font (scribbly ink). Using hex code #172126 on #F2F0EB paper background, with #BF4226 highlights. STRICTLY NO 3D, NO SHADOWS, NO REALISTIC EFFECTS.",
+      "character": "A stickman is shown with erratic movements, then trying to talk to many other stickmen at once, then collapsing.",
+      "background": "Smooth paper texture color #F2F0EB.",
+      "animation_timeline": "At [0s]: A stickman is shown with jerky, uncontrolled movements. At [2s]: The text 'UNCONTROLLED OUTBURSTS' slams onto the screen. At [4s]: The stickman is now surrounded by many other stickmen, trying to interact with all of them simultaneously. At [6s]: The text 'MANIC SOCIAL ACTIVITY' pops up. At [8s]: The stickman starts to move faster and faster, then suddenly collapses. At [10s]: The text 'EXHAUSTION' appears. At [14.681s]: The scene settles into a final static composition with the collapsed stickman.",
+      "audio_notes": "[SFX: Rapid scribbling sounds, then a cacophony of overlapping chatter, then a loud 'thud'.]"
+    }
+  },
+  {
+    "scene_id": 123,
+    "duration": "11.712",
+    "highlight_keywords": ["oversharing", "impulsive commitments", "grip of inferior function"],
+    "prompt_components": {
+      "style": "Minimalist Motion Graphics. Everything is hand-drawn scribbles. Flat 2D style. Text must be rough handwritten font (scribbly ink). Using hex code #172126 on #F2F0EB paper background, with #BF4226 highlights. STRICTLY NO 3D, NO SHADOWS, NO REALISTIC EFFECTS.",
+      "character": "A stickman is shown talking rapidly to many other stickmen, then making quick, exaggerated gestures of agreement.",
+      "background": "Smooth paper texture color #F2F0EB.",
+      "animation_timeline": "At [0s]: A stickman is shown talking animatedly to a group of other stickmen. At [2s]: The text 'OVERSHARING' slams onto the screen. At [4s]: The stickman makes a series of quick, exaggerated 'yes' gestures. At [6s]: The text 'IMPULSIVE COMMITMENTS' pops up. At [8s]: A red, jagged outline appears around the stickman. At [9.5s]: The text 'GRIP OF INFERIOR FUNCTION' slams onto the screen. At [11.712s]: The scene settles into a final static composition with the stickman looking flustered within the red outline.",
+      "audio_notes": "[SFX: Rapid chatter, then a series of quick 'pop' sounds, then a low, ominous hum.]"
+    }
+  },
+  {
+    "scene_id": 124,
+    "duration": "11.411",
+    "highlight_keywords": ["return to dominant", "process internally", "engage intentionally"],
+    "prompt_components": {
+      "style": "Minimalist Motion Graphics. Everything is hand-drawn scribbles. Flat 2D style. Text must be rough handwritten font (scribbly ink). Using hex code #172126 on #F2F0EB paper background, with #BF4226 highlights. STRICTLY NO 3D, NO SHADOWS, NO REALISTIC EFFECTS.",
+      "character": "A stickman is shown turning inward, then calmly interacting with another stickman.",
+      "background": "Smooth paper texture color #F2F0EB.",
+      "animation_timeline": "At [0s]: A stickman is shown looking outward, flustered. At [1.5s]: The stickman turns inward, closing its eyes. At [3s]: The text 'RETURN TO DOMINANT' slams onto the screen. At [4.5s]: The stickman opens its eyes, looking calm. At [6s]: The text 'PROCESS INTERNALLY' pops up. At [7.5s]: The stickman turns to another stickman and engages in calm conversation. At [9s]: The text 'ENGAGE INTENTIONALLY' slides in. At [11.411s]: The scene settles into a final static composition with the two stickmen in calm conversation.",
+      "audio_notes": "[SFX: A whoosh sound, then a calm chime, then gentle conversation sounds.]"
+    }
+  },
+  {
+    "scene_id": 125,
+    "duration": "13.613",
+    "highlight_keywords": ["extroverts", "withdrawal", "brooding", "paralysis through over analysis"],
+    "prompt_components": {
+      "style": "Minimalist Motion Graphics. Everything is hand-drawn scribbles. Flat 2D style. Text must be rough handwritten font (scribbly ink). Using hex code #172126 on #F2F0EB paper background, with #BF4226 highlights. STRICTLY NO 3D, NO SHADOWS, NO REALISTIC EFFECTS.",
+      "character": "A stickman is shown shrinking away, then sitting alone looking gloomy, then frozen.",
+      "background": "Smooth paper texture color #F2F0EB.",
+      "animation_timeline": "At [0s]: A stickman is shown in a group, then starts to shrink away. At [2s]: The text 'WITHDRAWAL' slams onto the screen. At [4s]: The stickman is now alone, looking downcast. At [5.5s]: The text 'BROODING' pops up. At [7s]: The stickman becomes rigid, unable to move. At [8.5s]: The text 'PARALYSIS THROUGH OVER ANALYSIS' slides in. At [13.613s]: The scene settles into a final static composition with the frozen stickman.",
+      "audio_notes": "[SFX: A shrinking sound, then a sigh, then a 'clank' sound for paralysis.]"
+    }
+  },
+  {
+    "scene_id": 126,
+    "duration": "11.946",
+    "highlight_keywords": ["isolated", "unable to make decisions", "negative thought loops"],
+    "prompt_components": {
+      "style": "Minimalist Motion Graphics. Everything is hand-drawn scribbles. Flat 2D style. Text must be rough handwritten font (scribbly ink). Using hex code #172126 on #F2F0EB paper background, with #BF4226 highlights. STRICTLY NO 3D, NO SHADOWS, NO REALISTIC EFFECTS.",
+      "character": "A stickman is shown alone in a vast space, then looking confused at two diverging paths, then trapped in a swirling vortex of dark thoughts.",
+      "background": "Smooth paper texture color #F2F0EB.",
+      "animation_timeline": "At [0s]: A stickman is shown alone in a large, empty space. At [2s]: The text 'ISOLATED' slams onto the screen. At [4s]: The stickman is presented with two diverging paths, looking confused. At [5.5s]: The text 'UNABLE TO MAKE DECISIONS' pops up. At [7s]: A swirling vortex of dark scribbles appears around the stickman. At [9s]: The text 'NEGATIVE THOUGHT LOOPS' slides in. At [11.946s]: The scene settles into a final static composition with the stickman trapped in the vortex.",
+      "audio_notes": "[SFX: Echoing footsteps, then a hesitant 'hmm', then a swirling, disorienting sound.]"
+    }
+  },
+  {
+    "scene_id": 127,
+    "duration": "8.742",
+    "highlight_keywords": ["return to dominant", "talk through", "trusted others"],
+    "prompt_components": {
+      "style": "Minimalist Motion Graphics. Everything is hand-drawn scribbles. Flat 2D style. Text must be rough handwritten font (scribbly ink). Using hex code #172126 on #F2F0EB paper background, with #BF4226 highlights. STRICTLY NO 3D, NO SHADOWS, NO REALISTIC EFFECTS.",
+      "character": "A stickman is shown turning towards a group of other stickmen, then engaging in conversation.",
+      "background": "Smooth paper texture color #F2F0EB.",
+      "animation_timeline": "At [0s]: A stickman is shown looking inward, withdrawn. At [1.5s]: The stickman turns outward towards a group of other stickmen. At [3s]: The text 'RETURN TO DOMINANT' slams onto the screen. At [4.5s]: The stickman begins to talk to the group. At [6s]: The text 'TALK THROUGH' pops up. At [7s]: The other stickmen listen attentively. At [8.742s]: The scene settles into a final static composition with the stickman in conversation.",
+      "audio_notes": "[SFX: A gentle 'turn' sound, then a clear speaking sound, then supportive murmurs.]"
+    }
+  },
+  {
+    "scene_id": 128,
+    "duration": "4.671",
+    "highlight_keywords": ["take action", "reflect carefully"],
+    "prompt_components": {
+      "style": "Minimalist Motion Graphics. Everything is hand-drawn scribbles. Flat 2D style. Text must be rough handwritten font (scribbly ink). Using hex code #172126 on #F2F0EB paper background, with #BF4226 highlights. STRICTLY NO 3D, NO SHADOWS, NO REALISTIC EFFECTS.",
+      "character": "A stickman is shown taking a decisive step forward, then pausing to think.",
+      "background": "Smooth paper texture color #F2F0EB.",
+      "animation_timeline": "At [0s]: A stickman is shown hesitating. At [1s]: The stickman takes a decisive step forward. At [2s]: The text 'TAKE ACTION' slams onto the screen. At [3s]: The stickman pauses, a thought bubble appears. At [4s]: The text 'REFLECT CAREFULLY' pops up. At [4.671s]: The scene settles into a final static composition with the stickman in a thoughtful pose.",
+      "audio_notes": "[SFX: A 'step' sound, then a 'ding' for action, then a gentle 'ponder' sound.]"
+    }
+  },
+  {
+    "scene_id": 129,
+    "duration": "7.875",
+    "highlight_keywords": ["regained equilibrium", "successful people", "mastered both orientations"],
+    "prompt_components": {
+      "style": "Minimalist Motion Graphics. Everything is hand-drawn scribbles. Flat 2D style. Text must be rough handwritten font (scribbly ink). Using hex code #172126 on #F2F0EB paper background, with #BF4226 highlights. STRICTLY NO 3D, NO SHADOWS, NO REALISTIC EFFECTS.",
+      "character": "A stickman is shown standing balanced, then looking at two balanced scales.",
+      "background": "Smooth paper texture color #F2F0EB.",
+      "animation_timeline": "At [0s]: A stickman is shown looking a bit unsteady. At [1.5s]: The stickman stands tall and balanced. At [3s]: The text 'REGained EQUILIBRIUM' slams onto the screen. At [4.5s]: Two balanced scales appear. At [6s]: The text 'SUCCESSFUL PEOPLE' pops up. At [7.875s]: The scene settles into a final static composition with the balanced stickman and scales.",
+      "audio_notes": "[SFX: A gentle 'settling' sound, then a 'chime' for success.]"
+    }
+  },
+  {
+    "scene_id": 130,
+    "duration": "8.608",
+    "highlight_keywords": ["develop dominant", "access non-dominant"],
+    "prompt_components": {
+      "style": "Minimalist Motion Graphics. Everything is hand-drawn scribbles. Flat 2D style. Text must be rough handwritten font (scribbly ink). Using hex code #172126 on #F2F0EB paper background, with #BF4226 highlights. STRICTLY NO 3D, NO SHADOWS, NO REALISTIC EFFECTS.",
+      "character": "A stickman is shown strengthening one side of itself, then reaching out with the other side.",
+      "background": "Smooth paper texture color #F2F0EB.",
+      "animation_timeline": "At [0s]: A stickman is shown. At [1.5s]: One side of the stickman glows and becomes more defined. At [3s]: The text 'DEVELOP DOMINANT' slams onto the screen. At [4.5s]: The other side of the stickman extends outwards. At [6s]: The text 'ACCESS NON-DOMINANT' pops up. At [8.608s]: The scene settles into a final static composition with the stickman showing both developed and extended sides.",
+      "audio_notes": "[SFX: A strengthening hum, then a reaching sound, then a soft 'click'.]"
+    }
+  },
+  {
+    "scene_id": 131,
+    "duration": "10.611",
+    "highlight_keywords": ["introverted leader", "public presentations", "recovery time"],
+    "prompt_components": {
+      "style": "Minimalist Motion Graphics. Everything is hand-drawn scribbles. Flat 2D style. Text must be rough handwritten font (scribbly ink). Using hex code #172126 on #F2F0EB paper background, with #BF4226 highlights. STRICTLY NO 3D, NO SHADOWS, NO REALISTIC EFFECTS.",
+      "character": "A stickman is shown preparing notes, then confidently giving a presentation, then resting.",
+      "background": "Smooth paper texture color #F2F0EB.",
+      "animation_timeline": "At [0s]: A stickman is shown reviewing notes. At [2s]: The text 'INTROVERTED LEADER' slams onto the screen. At [3.5s]: The stickman stands at a podium, presenting. At [5s]: The text 'PUBLIC PRESENTATIONS' pops up. At [7s]: The stickman is shown relaxing in a chair. At [8.5s]: The text 'RECOVERY TIME' slides in. At [10.611s]: The scene settles into a final static composition with the stickman resting.",
+      "audio_notes": "[SFX: Page turning, then a confident speaking sound, then a sigh of relief.]"
+    }
+  },
+  {
+    "scene_id": 132,
+    "duration": "9.443",
+    "highlight_keywords": ["extroverted analyst", "deep research", "partnering", "reflection time"],
+    "prompt_components": {
+      "style": "Minimalist Motion Graphics. Everything is hand-drawn scribbles. Flat 2D style. Text must be rough handwritten font (scribbly ink). Using hex code #172126 on #F2F0EB paper background, with #BF4226 highlights. STRICTLY NO 3D, NO SHADOWS, NO REALISTIC EFFECTS.",
+      "character": "A stickman is shown collaborating with another stickman, then looking at complex data, then thinking.",
+      "background": "Smooth paper texture color #F2F0EB.",
+      "animation_timeline": "At [0s]: Two stickmen are shown working together. At [2s]: The text 'EXTROVERTED ANALYST' slams onto the screen. At [3.5s]: Complex charts and graphs appear. At [5s]: The text 'DEEP RESEARCH' pops up. At [6.5s]: One stickman is shown partnering with another. At [8s]: The text 'REFLECTION TIME' slides in. At [9.443s]: The scene settles into a final static composition with the stickmen collaborating and reflecting.",
+      "audio_notes": "[SFX: Collaborative typing, then a 'data processing' sound, then a thoughtful hum.]"
+    }
+  },
+  {
+    "scene_id": 133,
+    "duration": "5.739",
+    "highlight_keywords": ["historical example", "Albert Einstein", "introvert"],
+    "prompt_components": {
+      "style": "Minimalist Motion Graphics. Everything is hand-drawn scribbles. Flat 2D style. Text must be rough handwritten font (scribbly ink). Using hex code #172126 on #F2F0EB paper background, with #BF4226 highlights. STRICTLY NO 3D, NO SHADOWS, NO REALISTIC EFFECTS.",
+      "character": "A stickman is shown with a historical silhouette of Einstein, then a thought bubble with 'Introvert'.",
+      "background": "Smooth paper texture color #F2F0EB.",
+      "animation_timeline": "At [0s]: A stickman appears. At [1s]: A silhouette resembling Albert Einstein appears next to it. At [2.5s]: The text 'HISTORICAL EXAMPLE' slams onto the screen. At [4s]: The text 'ALBERT EINSTEIN' pops up. At [5s]: The text 'INTROVERT' appears in a thought bubble. At [5.739s]: The scene settles into a final static composition with the stickman, Einstein's silhouette, and the text.",
+      "audio_notes": "[SFX: A historical chime, then a 'ding' for the name, then a soft 'aha' sound.]"
+    }
+  },
+  {
+    "scene_id": 134,
+    "duration": "10.744",
+    "highlight_keywords": ["best thinking", "solitude", "long walks", "work through problems"],
+    "prompt_components": {
+      "style": "Minimalist Motion Graphics. Everything is hand-drawn scribbles. Flat 2D style. Text must be rough handwritten font (scribbly ink). Using hex code #172126 on #F2F0EB paper background, with #BF4226 highlights. STRICTLY NO 3D, NO SHADOWS, NO REALISTIC EFFECTS.",
+      "character": "A stickman is shown walking alone, then sitting in contemplation.",
+      "background": "Smooth paper texture color #F2F0EB.",
+      "animation_timeline": "At [0s]: A stickman is shown walking alone on a path. At [2s]: The text 'BEST THINKING IN SOLITUDE' slams onto the screen. At [4s]: The stickman sits on a bench, looking thoughtful. At [5.5s]: The text 'LONG WALKS' pops up. At [7s]: A thought bubble appears with complex scribbles. At [9s]: The text 'WORK THROUGH PROBLEMS' slides in. At [10.744s]: The scene settles into a final static composition with the stickman contemplating.",
+      "audio_notes": "[SFX: Footsteps, then a gentle 'whoosh', then a thoughtful hum.]"
+    }
+  },
+  {
+    "scene_id": 135,
+    "duration": "5.773",
+    "highlight_keywords": ["images", "feelings", "translated to language"],
+    "prompt_components": {
+      "style": "Minimalist Motion Graphics. Everything is hand-drawn scribbles. Flat 2D style. Text must be rough handwritten font (scribbly ink). Using hex code #172126 on #F2F0EB paper background, with #BF4226 highlights. STRICTLY NO 3D, NO SHADOWS, NO REALISTIC EFFECTS.",
+      "character": "A stickman is shown with icons of images and feelings, then writing.",
+      "background": "Smooth paper texture color #F2F0EB.",
+      "animation_timeline": "At [0s]: A stickman is shown. At [1s]: Icons of abstract images and emotional symbols appear around it. At [2.5s]: The text 'IMAGES AND FEELINGS' slams onto the screen. At [4s]: The stickman starts writing. At [5s]: The text 'TRANSLATED TO LANGUAGE' pops up. At [5.773s]: The scene settles into a final static composition with the stickman writing.",
+      "audio_notes": "[SFX: Gentle chimes for icons, then a writing sound, then a 'click' for translation.]"
+    }
+  },
+  {
+    "scene_id": 136,
+    "duration": "5.672",
+    "highlight_keywords": ["greatest breakthroughs", "sustained", "solitary contemplation"],
+    "prompt_components": {
+      "style": "Minimalist Motion Graphics. Everything is hand-drawn scribbles. Flat 2D style. Text must be rough handwritten font (scribbly ink). Using hex code #172126 on #F2F0EB paper background, with #BF4226 highlights. STRICTLY NO 3D, NO SHADOWS, NO REALISTIC EFFECTS.",
+      "character": "A stickman is shown in deep thought, with a bright lightbulb appearing above its head.",
+      "background": "Smooth paper texture color #F2F0EB.",
+      "animation_timeline": "At [0s]: A stickman is shown in deep, focused thought. At [1.5s]: The text 'SUSTAINED SOLITARY CONTEMPLATION' slams onto the screen. At [3s]: A bright lightbulb icon pops up above the stickman's head. At [4.5s]: The text 'GREATEST BREAKTHROUGHS' appears below the lightbulb. At [5.672s]: The scene settles into a final static composition with the stickman and the glowing lightbulb.",
+      "audio_notes": "[SFX: A low hum, then a bright 'ding' for the breakthrough.]"
+    }
+  },
+  {
+    "scene_id": 137,
+    "duration": "5.539",
+    "highlight_keywords": ["access extroverted side"],
+    "prompt_components": {
+      "style": "Minimalist Motion Graphics. Everything is hand-drawn scribbles. Flat 2D style. Text must be rough handwritten font (scribbly ink). Using hex code #172126 on #F2F0EB paper background, with #BF4226 highlights. STRICTLY NO 3D, NO SHADOWS, NO REALISTIC EFFECTS.",
+      "character": "A stickman is shown turning from a solitary pose towards a group.",
+      "background": "Smooth paper texture color #F2F0EB.",
+      "animation_timeline": "At [0s]: A stickman is shown in a solitary pose. At [1.5s]: The stickman turns its head towards a group of other stickmen icons. At [3s]: The text 'ACCESS EXTR0VERTED SIDE' slams onto the screen. At [5.539s]: The scene settles into a final static composition with the stickman looking towards the group.",
+      "audio_notes": "[SFX: A gentle turning sound, then a soft 'whoosh'.]"
+    }
+  },
+  {
+    "scene_id": 138,
+    "duration": "9.376",
+    "highlight_keywords": ["lectures", "vigorous debates", "conversation", "test ideas"],
+    "prompt_components": {
+      "style": "Minimalist Motion Graphics. Everything is hand-drawn scribbles. Flat 2D style. Text must be rough handwritten font (scribbly ink). Using hex code #172126 on #F2F0EB paper background, with #BF4226 highlights. STRICTLY NO 3D, NO SHADOWS, NO REALISTIC EFFECTS.",
+      "character": "A stickman is shown at a podium, then in a heated discussion with another stickman, then talking.",
+      "background": "Smooth paper texture color #F2F0EB.",
+      "animation_timeline": "At [0s]: A stickman is at a podium, speaking. At [2s]: The text 'GAVE LECTURES' slams onto the screen. At [3.5s]: Two stickmen are shown in a vigorous debate, with exclamation marks. At [5s]: The text 'VIGOROUS DEBATES' pops up. At [6.5s]: A stickman is shown talking animatedly with another. At [8s]: The text 'TEST IDEAS' slides in. At [9.376s]: The scene settles into a final static composition with the stickmen interacting.",
+      "audio_notes": "[SFX: Speaking sound, then debate sounds, then conversational chatter.]"
+    }
+  },
+  {
+    "scene_id": 139,
+    "duration": "7.808",
+    "highlight_keywords": ["strategically deployed", "extroverted behaviors"],
+    "
+
+--- PART BREAK ---
+
+[
+  {
+    "scene_id": 172,
+    "duration": "2.736",
+    "highlight_keywords": ["Jung", "path"],
+    "prompt_components": {
+      "style": "Minimalist Motion Graphics. Everything is hand-drawn scribbles. Flat 2D style. Text must be rough handwritten font (scribbly ink). Using hex code #172126 on #F2F0EB paper background, with #BF4226 highlights. STRICTLY NO 3D, NO SHADOWS, NO REALISTIC EFFECTS.",
+      "character": "A stickman thoughtfully considers two diverging paths, one leading to a question mark, the other to a stylized 'J'.",
+      "background": "Smooth paper texture color #F2F0EB.",
+      "animation_timeline": "At 0s: A stickman appears at the center. At 0.5s: Two paths slide out from the stickman's feet. At 1.0s: The text 'Jung' pops up near the stickman. At 1.5s: The text 'offers a different path.' slides in from the right. At 2.236s: The scene settles into a final static composition with the stickman looking at the diverging paths.",
+      "audio_notes": "[SFX: Gentle slide, soft pop]"
+    }
+  },
+  {
+    "scene_id": 173,
+    "duration": "13.48",
+    "highlight_keywords": ["type", "strengths", "challenges", "orientation"],
+    "prompt_components": {
+      "style": "Minimalist Motion Graphics. Everything is hand-drawn scribbles. Flat 2D style. Text must be rough handwritten font (scribbly ink). Using hex code #172126 on #F2F0EB paper background, with #BF4226 highlights. STRICTLY NO 3D, NO SHADOWS, NO REALISTIC EFFECTS.",
+      "character": "A stickman is surrounded by icons representing strengths (a star), challenges (a storm cloud), and orientations (arrows pointing left and right).",
+      "background": "Smooth paper texture color #F2F0EB.",
+      "animation_timeline": "At 0s: The text 'Understand your type deeply' slams onto the screen. At 1.0s: The stickman appears, looking confused. At 2.0s: Icons for 'strengths' (star) and 'challenges' (storm cloud) pop up around the stickman. At 3.0s: Arrows representing 'orientation' slide in from both sides. At 12.98s: The scene settles into a final static composition with the stickman interacting with the icons.",
+      "audio_notes": "[SFX: Slam, pop, slide, whoosh]"
+    }
+  },
+  {
+    "scene_id": 174,
+    "duration": "11.078",
+    "highlight_keywords": ["career", "fits", "challenge"],
+    "prompt_components": {
+      "style": "Minimalist Motion Graphics. Everything is hand-drawn scribbles. Flat 2D style. Text must be rough handwritten font (scribbly ink). Using hex code #172126 on #F2F0EB paper background, with #BF4226 highlights. STRICTLY NO 3D, NO SHADOWS, NO REALISTIC EFFECTS.",
+      "character": "A stickman is shown building a career path, with a large 'challenge' icon appearing.",
+      "background": "Smooth paper texture color #F2F0EB.",
+      "animation_timeline": "At 0s: The text 'This is how you build' slides in. At 1.0s: A stickman appears and starts drawing a path. At 3.0s: The text 'a successful career' pops up. At 5.0s: The text 'but a career that actually fits who you are.' slams down. At 8.0s: A large 'challenge' icon appears. At 10.578s: The scene settles into a final static composition with the stickman looking at the career path and the challenge.",
+      "audio_notes": "[SFX: Slide, pop, slam, thud]"
+    }
+  },
+  {
+    "scene_id": 175,
+    "duration": "8.909",
+    "highlight_keywords": ["work situation", "non-preferred orientation"],
+    "prompt_components": {
+      "style": "Minimalist Motion Graphics. Everything is hand-drawn scribbles. Flat 2D style. Text must be rough handwritten font (scribbly ink). Using hex code #172126 on #F2F0EB paper background, with #BF4226 highlights. STRICTLY NO 3D, NO SHADOWS, NO REALISTIC EFFECTS.",
+      "character": "A stickman is shown in a work setting, looking stressed, with an arrow pointing in the 'non-preferred' direction.",
+      "background": "Smooth paper texture color #F2F0EB.",
+      "animation_timeline": "At 0s: The text 'So here's your challenge this week.' pops up. At 1.5s: A stickman appears in a simple office cubicle. At 3.0s: The text 'Identify one way your current work situation' slams down. At 5.0s: An arrow labeled 'non-preferred' appears and pushes the stickman. At 8.409s: The scene settles into a final static composition with the stickman looking uncomfortable in the cubicle.",
+      "audio_notes": "[SFX: Pop, slam, push]"
+    }
+  },
+  {
+    "scene_id": 176,
+    "duration": "6.807",
+    "highlight_keywords": ["structural change", "leverage", "natural type"],
+    "prompt_components": {
+      "style": "Minimalist Motion Graphics. Everything is hand-drawn scribbles. Flat 2D style. Text must be rough handwritten font (scribbly ink). Using hex code #172126 on #F2F0EB paper background, with #BF4226 highlights. STRICTLY NO 3D, NO SHADOWS, NO REALISTIC EFFECTS.",
+      "character": "A stickman brainstorms, with icons for 'structural change' (gears) and 'natural type' (a leaf) appearing.",
+      "background": "Smooth paper texture color #F2F0EB.",
+      "animation_timeline": "At 0s: The text 'Then brainstorm one structural change' slides in. At 1.5s: A stickman appears with a lightbulb above its head. At 3.0s: Gears (representing structural change) spin into view. At 4.5s: A leaf icon (representing natural type) pops up. At 6.307s: The scene settles into a final static composition with the stickman looking at the gears and leaf.",
+      "audio_notes": "[SFX: Slide, spin, pop]"
+    }
+  },
+  {
+    "scene_id": 177,
+    "duration": "9.142",
+    "highlight_keywords": ["focused work", "collaborative projects", "communication style"],
+    "prompt_components": {
+      "style": "Minimalist Motion Graphics. Everything is hand-drawn scribbles. Flat 2D style. Text must be rough handwritten font (scribbly ink). Using hex code #172126 on #F2F0EB paper background, with #BF4226 highlights. STRICTLY NO 3D, NO SHADOWS, NO REALISTIC EFFECTS.",
+      "character": "A stickman is shown juggling icons for focused work (a clock), collaborative projects (people icons), and communication style (speech bubbles).",
+      "background": "Smooth paper texture color #F2F0EB.",
+      "animation_timeline": "At 0s: The text 'Maybe it's negotiating for more focused work time' slams down. At 2.0s: A stickman appears juggling icons. At 3.5s: A clock icon pops up. At 5.0s: Several stick figures appear for 'collaborative projects'. At 6.5s: Speech bubbles appear for 'communication style'. At 8.642s: The scene settles into a final static composition with the stickman surrounded by the icons.",
+      "audio_notes": "[SFX: Slam, pop, juggle]"
+    }
+  },
+  {
+    "scene_id": 178,
+    "duration": "5.94",
+    "highlight_keywords": ["action", "aligning work", "type"],
+    "prompt_components": {
+      "style": "Minimalist Motion Graphics. Everything is hand-drawn scribbles. Flat 2D style. Text must be rough handwritten font (scribbly ink). Using hex code #172126 on #F2F0EB paper background, with #BF4226 highlights. STRICTLY NO 3D, NO SHADOWS, NO REALISTIC EFFECTS.",
+      "character": "A stickman takes a step forward on a path labeled 'work', with a 'type' icon appearing.",
+      "background": "Smooth paper texture color #F2F0EB.",
+      "animation_timeline": "At 0s: The text 'Whatever it is, take one action' slides in. At 1.5s: A stickman appears at the start of a path. At 3.0s: The text 'toward aligning your work with your type.' slams down. At 4.5s: A stylized 'type' icon appears at the end of the path. At 5.44s: The scene settles into a final static composition with the stickman taking a step on the path.",
+      "audio_notes": "[SFX: Slide, slam, step]"
+    }
+  },
+  {
+    "scene_id": 179,
+    "duration": "9.844",
+    "highlight_keywords": ["career", "fully yourself"],
+    "prompt_components": {
+      "style": "Minimalist Motion Graphics. Everything is hand-drawn scribbles. Flat 2D style. Text must be rough handwritten font (scribbly ink). Using hex code #172126 on #F2F0EB paper background, with #BF4226 highlights. STRICTLY NO 3D, NO SHADOWS, NO REALISTIC EFFECTS.",
+      "character": "A stickman grows and expands, transforming into a more vibrant version of itself.",
+      "background": "Smooth paper texture color #F2F0EB.",
+      "animation_timeline": "At 0s: The text 'The career you're meant to have' pops up. At 2.0s: A stickman appears, looking constrained. At 4.0s: The text 'isn't the one that requires you to become someone else.' slams down. At 6.0s: The stickman begins to expand and glow. At 7.5s: The text 'It's the one that allows you to become more fully yourself.' slides in. At 9.344s: The scene settles into a final static composition with the expanded, vibrant stickman.",
+      "audio_notes": "[SFX: Pop, slam, whoosh, expand]"
+    }
+  },
+  {
+    "scene_id": 180,
+    "duration": "8.809",
+    "highlight_keywords": ["introvert", "extrovert", "career strategies"],
+    "prompt_components": {
+      "style": "Minimalist Motion Graphics. Everything is hand-drawn scribbles. Flat 2D style. Text must be rough handwritten font (scribbly ink). Using hex code #172126 on #F2F0EB paper background, with #BF4226 highlights. STRICTLY NO 3D, NO SHADOWS, NO REALISTIC EFFECTS.",
+      "character": "A stickman points to icons representing an introvert (a book) and an extrovert (a group of people), then to a toolbox of career strategies.",
+      "background": "Smooth paper texture color #F2F0EB.",
+      "animation_timeline": "At 0s: The text 'Thank you for watching.' slides in. At 1.5s: A stickman appears. At 3.0s: An icon of a book (introvert) and an icon of people (extrovert) pop up. At 5.0s: The text 'Let me know in the comments.' slams down. At 6.5s: A toolbox icon appears. At 8.309s: The scene settles into a final static composition with the stickman pointing to the icons and toolbox.",
+      "audio_notes": "[SFX: Slide, pop, slam, toolbox open]"
+    }
+  },
+  {
+    "scene_id": 181,
+    "duration": "3.103",
+    "highlight_keywords": ["see you", "next video"],
+    "prompt_components": {
+      "style": "Minimalist Motion Graphics. Everything is hand-drawn scribbles. Flat 2D style. Text must be rough handwritten font (scribbly ink). Using hex code #172126 on #F2F0EB paper background, with #BF4226 highlights. STRICTLY NO 3D, NO SHADOWS, NO REALISTIC EFFECTS.",
+      "character": "A stickman waves goodbye, with an arrow pointing to the next video.",
+      "background": "Smooth paper texture color #F2F0EB.",
+      "animation_timeline": "At 0s: The text 'And as always,' pops up. At 1.0s: A stickman waves. At 1.5s: The text 'I'll see you in the next video.' slams down. At 2.603s: The scene settles into a final static composition with the stickman waving and an arrow pointing off-screen.",
+      "audio_notes": "[SFX: Pop, wave, slam]"
+    }
+  }
+]
