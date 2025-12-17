@@ -1,0 +1,14 @@
+phụ đề
+
+1 câu nguyên dài hơn 11 - ok
+2, 3 khoi ghep lai vẫn nhỏ hơn 11 - ghép
+
+whisper
+
+-- có srt 
+- - - gem - - - > promt -> > file json
+
+
+
+defaut vs bien from Gemini
+
