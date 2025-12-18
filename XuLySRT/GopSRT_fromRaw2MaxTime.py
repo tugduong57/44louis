@@ -168,8 +168,8 @@ def merge_blocks_by_duration(ids, times, texts, max_time=11.0):
 # ==============================================================================
 
 if __name__ == "__main__":
-    input_filename = "50 2 Intro.srt"
-    output_filename = "50 2 Intro_Final.srt"
+    input_filename = "50. Introversion vs.srt"
+    output_filename = "50. Introversion vs_Final.srt"
 
     print("--- BẮT ĐẦU XỬ LÝ ---")
 

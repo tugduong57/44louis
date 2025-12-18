@@ -1,5 +1,6 @@
-whisperx test.mp3 --model large-v2 --language vi --compute_type float16
-
+whisperx test.mp3 --model large-v2 --compute_type int8
+ float16
+// --language vi 
 
 whisperx test.mp3 
 --model large-v2 

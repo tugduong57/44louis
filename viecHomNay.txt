@@ -1,0 +1,10 @@
+	MP3 -> detail-words
+1. Cài đặt các phần mềm hỗ trợ cần thiết
+
+2. Chuyển đổi âm thanh sang văn bản (Transcribe)
+Sử dụng model WhisperX để nghe file âm thanh (test4.mp3).
+Hỗ trợ chạy trên GPU
+
+3. Xuất ra 2 phụ đề
+File 1: filename.srt (Theo câu):
+File 2: filename_word.srt (Theo từ - Word Level):
