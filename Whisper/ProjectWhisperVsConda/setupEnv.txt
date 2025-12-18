@@ -1,0 +1,6 @@
+Cài đặt để sử dung WhisperX
+ffmpeg-8.0.1-essentials_build\bin // thêm vào path cho whisper sử dụng
+cuda 12.8.0 theo README from WhisperX
+- Tiep thep: 
+pip install whisperx
+pip install git+https://github.com/m-bain/whisperX.git

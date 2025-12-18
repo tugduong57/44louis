@@ -1,0 +1,116 @@
+# =========================
+# Executables / Archives
+# =========================
+*.exe
+*.msi
+*.bat
+*.cmd
+
+*.zip
+*.rar
+*.7z
+*.tar
+*.gz
+*.xz
+
+# =========================
+# OS / Editor
+# =========================
+.DS_Store
+Thumbs.db
+desktop.ini
+
+.vscode/
+.idea/
+
+# =========================
+# Python cache
+# =========================
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# =========================
+# Virtual env / Conda
+# =========================
+venv/
+.env/
+.venv/
+conda/
+env/
+
+# =========================
+# Python build / dist
+# =========================
+build/
+dist/
+*.egg-info/
+
+# =========================
+# Logs / temp
+# =========================
+*.log
+*.tmp
+
+# =========================
+# Model / Data (Whisper / AI)
+# =========================
+models/
+checkpoints/
+weights/
+*.pt
+*.pth
+*.bin
+*.onnx
+*.ckpt
+
+# =========================
+# Audio / Video / Media
+# =========================
+*.wav
+*.mp3
+*.flac
+*.aac
+*.mp4
+*.mkv
+*.avi
+*.mov
+
+# =========================
+# Subtitles / output
+# =========================
+*.srt
+*.vtt
+*.ass
+outputs/
+results/
+
+# =========================
+# FFmpeg / binaries
+# =========================
+ffmpeg.exe
+ffprobe.exe
+ffplay.exe
+
+# =========================
+# CUDA / compiled
+# =========================
+*.cu.o
+*.ptx
+*.cubin
+*.dll
+*.so
+
+# =========================
+# Jupyter
+# =========================
+.ipynb_checkpoints/
+
+# =========================
+# Secrets / configs
+# =========================
+.env.*
+*.key
+*.secret
+config.local.*
