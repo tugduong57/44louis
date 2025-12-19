@@ -1,0 +1,17 @@
+# thêm luôn thư mục để gọi tới sử dụng
+ffmpeg-8.0.1-essentials_build\bin 
+
+# khi dùng pyinstaller, sẽ được trích và ôm theo luôn (-> Khá nặng !)
+cuda 12.8.0 theo README from WhisperX 
+
+install_dep.bat # tự cài mọi thứ:
+{
+	- Tiep thep: 
+	# sẽ install trên máy khách vào lần khởi chạy đầu tiên !
+	pip install whisperx 	
+	pip install git+https://github.com/m-bain/whisperX.git
+
+	-- 
+	pip uninstall torch torchaudio -y
+	pip install torch torchaudio --index-url https://download.pytorch.org/whl/cu124
+}

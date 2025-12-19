@@ -66,32 +66,12 @@ weights/
 *.ckpt
 
 # =========================
-# Audio / Video / Media
-# =========================
-*.wav
-*.mp3
-*.flac
-*.aac
-*.mp4
-*.mkv
-*.avi
-*.mov
-
-# =========================
 # Subtitles / output
 # =========================
-*.srt
 *.vtt
 *.ass
 outputs/
 results/
-
-# =========================
-# FFmpeg / binaries
-# =========================
-ffmpeg.exe
-ffprobe.exe
-ffplay.exe
 
 # =========================
 # CUDA / compiled
