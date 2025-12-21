@@ -1,0 +1,7 @@
+[2025-12-19 21:56:28] File: .mp3 | Size: 24.43 MB | Time: 26.64s
+[2025-12-19 22:10:14] File: .mp4 | Size: 40.24 MB | Time: 26.32s
+[2025-12-19 22:27:28] File: .mp4 | Size: 40.24 MB | Time: 24.76s | Model: small | Compute_type: int8 | Batch_size: 16
+[2025-12-19 22:42:25] File: .mp4 | Size: 40.24 MB | Time: 178.16s | Model: medium | Compute_type: int8 | Batch_size: 16
+[2025-12-19 22:43:22] File: .mp4 | Size: 40.24 MB | Time: 34.59s | Model: medium | Compute_type: int8 | Batch_size: 16
+[2025-12-19 22:47:17] File: .mp4 | Size: 40.24 MB | Time: 34.91s | Model: medium | Compute_type: int8 | Batch_size: 16
+[2025-12-19 22:47:51] File: .mp4 | Size: 40.24 MB | Time: 27.36s | Model: small | Compute_type: int8 | Batch_size: 16

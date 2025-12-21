@@ -1,0 +1,36 @@
+Mục tiêu hiện tại:
+
+# Streamlit : ! Thuần trong LAN 
+- Hiện tại, tìm hiểu về Internal Tool, cùng mạng LAN, tester có thể gọi và chạy script python trên máy hiện tại (Server) như máy khách (Client)
+
+# ipconfig -> Lấy IPv4 -> Link gửi cho tester: http://<IP_CUA_BAN>:8501
+
+set-up:
+pip install streamlit
+python -m streamlit run firstAppStreamlit.py --server.address 0.0.0.0
+Link gửi cho tester: http://<IP_CUA_BAN>:8501
+
+Có nhiều cách Deploy (Trong Kỹ thuật phần mầm gọi là Deployment Strategy )
+
+# Streamlit : ! Thuần trong LAN 
+- Hiện tại, tìm hiểu về Internal Tool, cùng mạng LAN, tester có thể gọi và chạy script python trên máy hiện tại (Server) như máy khách (Client)
+
+# Localtunnel ! Mở địa chỉ lên Internet 
+- Biến máy tính thành một địa chỉ web công khai
+
+# Pyinstaller (không thích hợp !)
+- Đóng gói cho người dùng, nhưng khá nặng và nhiều thứ cần setup để tự động
+
+# Phương án chuyên nghiệp hơn! 
+1. API Backend
+- thay vì dùng Streamit (trộn lẫn giao diện và logic) -> tách hẳn ra
++ Viết một API bằng FastAPI 
+	* Endpoint: POST /upload-audio ; POST /generate-video
++ Cách làm thực tế tại công tay!
+
+2. Google Colab
+
+3. Docker (Containerization)
+- Viết Dockerfile mô tả môi trường. Tester cài Docker Desktop và chạy 1 lệnh !
+- Yêu cầu: máy tester khỏe, muốn chạy GPU qua Docker vẫn khá khó ! 
+
