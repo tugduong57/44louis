@@ -1,0 +1,7 @@
+Python là một trong những ngôn ngữ lập trình phổ biến và được yêu chuộng nhất thế giới hiện nay nhờ vào triết lý thiết kế đơn giản, dễ đọc và dễ học. Với cú pháp gần giống với tiếng Anh tự nhiên, Python cho phép người mới bắt đầu có thể tiếp cận lập trình một cách nhanh chóng mà không bị choáng ngợp bởi những quy tắc phức tạp.
+Dưới đây là những điểm đặc trưng khiến Python trở nên mạnh mẽ:
+Đa năng: Python không chỉ dùng để viết các chương trình cơ bản mà còn là "ông vua" trong các lĩnh vực hiện đại như Trí tuệ nhân tạo (AI), Học máy (Machine Learning), Phân tích dữ liệu và Phát triển Web.
+Thư viện phong phú: Sở hữu một hệ sinh thái khổng lồ các thư viện có sẵn (như NumPy, Pandas, TensorFlow), giúp lập trình viên giải quyết các bài toán phức tạp chỉ với vài dòng mã.
+Cộng đồng lớn mạnh: Vì có hàng triệu người sử dụng, bạn có thể dễ dàng tìm thấy tài liệu hướng dẫn, giải pháp cho các lỗi lập trình hoặc các dự án mẫu trên internet.
+Dù bạn là một học sinh muốn làm quen với code, hay một kỹ sư muốn xây dựng hệ thống tự động hóa phức tạp, Python luôn là một lựa chọn hàng đầu để biến ý tưởng thành hiện thực.
+Bạn có muốn tôi hướng dẫn cách viết chương trình "Hello World" đầu tiên bằng Python hoặc gợi ý lộ trình học ngôn ngữ này không?

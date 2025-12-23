@@ -1,0 +1,5 @@
+File: Pedro Infante -  Amorcito Corazón  (Audio Oficial).mp3 | Size: 2.82 MB | Time: 49.07s | Model: small | Type: int8 [2025-12-23 09:18:00] 
+ File: 1.mp3 | Size: 17.00 MB | Time: 36.75s | Model: small | Type: int8 [2025-12-23 09:47:33] 
+ File: 1.mp3 | Size: 17.00 MB | Time: 35.62s | Model: small | Type: int8 [2025-12-23 09:48:23] 
+ File: 1.mp3 | Size: 17.00 MB | Time: 40.41s | Model: medium | Type: float16 [2025-12-23 10:48:11] 
+ 

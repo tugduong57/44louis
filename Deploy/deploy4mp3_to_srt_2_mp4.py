@@ -136,7 +136,7 @@ def render_video_gpu(audio_input, srt_input, output_path, status_container=None)
         "-i", audio_input,                                     # Input Audio
         "-vf", f"subtitles='{srt_path_fixed}':force_style='FontSize=24,PrimaryColour=&H00FFFFFF,Alignment=2'", # Hardsub
         "-c:v", "h264_nvenc",                                  # GPU NVIDIA Encoder
-        "-preset", "p7",                                       # Max Quality
+        "-preset", "p1", # "p7", # Max Quality 
         "-c:a", "copy",                                        # Copy Audio (Nhanh)
         "-shortest",                                           # Dừng khi hết nhạc
         output_path
