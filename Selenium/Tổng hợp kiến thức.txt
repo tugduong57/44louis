@@ -1,8 +1,0 @@
-# Kết hợp Selenium với GoLogin
-
-- Tạo Profile với Gologin 
-- Kết nối qua Port
-- Điều khiển bằng Selenium, trình duyệt Orbita 
---> Vượt rào cản Bot
-
-

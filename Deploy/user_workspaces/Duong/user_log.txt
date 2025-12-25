@@ -1,0 +1,10 @@
+File: 8. The Wise Old Man & The Great Mother_ Archetypes in Your Family Life - Carl Jung.mp3 | Size: 4.77 MB | Time: 17.57s | Model: medium | Type: int8 [2025-12-23 14:49:24] 
+ File: 31. Why You Need a Ritual_ - Carl Jung.mp3 | Size: 16.14 MB | Time: 50.58s | Model: medium | Type: int8 [2025-12-23 16:31:41] 
+ File: 50. Introversion vs. Extroversion_ How to leverage your Jungian type in your career_.mp3 | Size: 18.89 MB | Time: 50.86s | Model: small | Type: int8 [2025-12-23 20:56:31] 
+ File: 49. The Essential 3 Steps to Psychological Growth - Carl Jung.mp3 | Size: 8.40 MB | Time: 23.04s | Model: small | Type: int8 [2025-12-23 22:04:50] 
+ File: dagger.mp3 | Size: 8.83 MB | Time: 25.06s | Model: small | Type: int8 [2025-12-25 08:36:08] 
+ File: dagger.mp3 | Size: 8.83 MB | Time: 25.49s | Model: small | Type: int8 [2025-12-25 08:38:02] 
+ File: dagger.mp3 | Size: 8.83 MB | Time: 25.92s | Model: small | Type: float32 [2025-12-25 08:38:38] 
+ File: dagger.mp3 | Size: 8.83 MB | Time: 25.15s | Model: small | Type: int8 [2025-12-25 08:44:39] 
+ File: 9. Why We Keep Choosing the Wrong Partners - Carl Jung.mp3 | Size: 9.53 MB | Time: 26.91s | Model: small | Type: int8 [2025-12-25 15:55:21] 
+ 

@@ -7,7 +7,7 @@ Mục tiêu hiện tại:
 
 set-up:
 pip install streamlit
-python -m streamlit run deploy4mp3_to_srt_2_mp4.py --server.address 0.0.0.0
+python -m streamlit run deploy4mp3_to_excel.py --server.address 0.0.0.0
 Link gửi cho tester: http://<IP_CUA_BAN>:8501
 
 Có nhiều cách Deploy (Trong Kỹ thuật phần mầm gọi là Deployment Strategy )
